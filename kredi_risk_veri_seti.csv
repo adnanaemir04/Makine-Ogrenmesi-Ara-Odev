@@ -1,0 +1,1001 @@
+﻿musteri_id,yas,aylik_gelir_TL,calisma_suresi_yil,kredi_tutari_TL,kredi_vadesi_ay,kredi_gecmisi_ay,mevcut_borc_TL,aylik_gider_TL,ev_sahipligi,calisma_durumu,kredi_amaci,odeme_gecmisi,onceki_takip_sayisi,kredi_riski
+M00001,59,50216.0,13.2,58922,36,475,49738.0,10266,Ev Sahibi,Serbest,Arac,Iyi,0,Risksiz
+M00002,49,82357.0,17.2,74302,36,207,0.0,11631,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00003,35,60680.0,4.8,16713,24,219,57621.0,18823,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00004,63,39132.0,14.5,82260,48,443,50203.0,5000,Aile Yaninda,Yari Zamanli,Isletme,Kotu,0,Riskli
+M00005,28,66622.0,6.8,39119,72,66,21724.0,31388,Ev Sahibi,Tam Zamanli,Isletme,Kotu,1,Riskli
+M00006,41,37655.0,8.1,29420,36,239,39781.0,21534,Ev Sahibi,Serbest,Ev,Iyi,0,Risksiz
+M00007,59,15000.0,24.2,24329,36,383,30057.0,27816,Kira,Yari Zamanli,Arac,Orta,0,Riskli
+M00008,39,26854.0,10.4,103381,36,273,52140.0,5355,Ev Sahibi,Yari Zamanli,Arac,Iyi,0,Riskli
+M00009,43,15000.0,11.7,51122,24,191,47688.0,27957,Kira,Issiz,Tuketici,Iyi,0,Riskli
+M00010,31,38673.0,9.2,116012,60,164,4799.0,35852,Kira,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00011,31,45332.0,3.4,53926,36,136,40571.0,7433,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00012,44,75176.0,16.8,18779,36,167,26299.0,24171,Kira,Serbest,Tuketici,Kotu,0,Riskli
+M00013,56,50885.0,31.6,36504,48,523,31491.0,18009,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00014,60,41056.0,25.4,107074,36,424,16893.0,5645,Kira,Serbest,Tuketici,Iyi,0,Risksiz
+M00015,44,59929.0,20.7,65323,48,217,61466.0,21943,Ev Sahibi,Issiz,Tuketici,Iyi,0,Risksiz
+M00016,23,15000.0,1.0,53551,12,49,48721.0,24669,Ev Sahibi,Yari Zamanli,Tatil,Iyi,1,Riskli
+M00017,42,49241.0,12.1,74801,60,309,16684.0,13191,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00018,22,58876.0,0.9,85053,72,34,5977.0,27327,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00019,44,18385.0,17.7,103522,48,196,23058.0,5000,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00020,64,65588.0,39.1,113455,72,323,37821.0,6042,Kira,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00021,50,51093.0,13.6,59207,24,268,34324.0,19093,Kira,Yari Zamanli,Egitim,Kotu,0,Riskli
+M00022,58,37525.0,26.3,30219,36,490,52556.0,18203,Aile Yaninda,Serbest,Ev,Orta,0,Riskli
+M00023,22,56390.0,0.8,57596,48,39,44219.0,12267,Kira,Yari Zamanli,Isletme,Iyi,1,Risksiz
+M00024,41,85872.0,13.4,77808,48,180,47452.0,24477,Kira,Tam Zamanli,Ev,Orta,0,Risksiz
+M00025,53,48274.0,19.1,41087,36,257,35883.0,22247,Aile Yaninda,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00026,32,49468.0,10.6,41285,36,121,4993.0,24865,Kira,Serbest,Egitim,Iyi,0,Riskli
+M00027,42,36732.0,14.6,80314,24,324,26477.0,17015,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00028,64,29703.0,22.4,68540,36,402,49082.0,22821,Kira,Tam Zamanli,Isletme,Kotu,0,Riskli
+M00029,45,59946.0,9.2,70984,24,375,29073.0,14435,Kira,Serbest,Tuketici,Iyi,0,Riskli
+M00030,47,29590.0,10.6,47245,48,287,39056.0,34431,Kira,Yari Zamanli,Egitim,Iyi,0,Risksiz
+M00031,62,46288.0,18.3,63088,24,327,24263.0,11500,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00032,48,36402.0,12.6,42273,12,394,11463.0,34842,Kira,Serbest,Ev,Orta,0,Risksiz
+M00033,36,53622.0,13.0,96706,36,174,27780.0,18279,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00034,35,51006.0,9.6,101057,48,199,35563.0,6996,Ev Sahibi,Issiz,Arac,Kotu,1,Riskli
+M00035,64,63676.0,27.0,14614,60,638,18198.0,28945,Aile Yaninda,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00036,23,35820.0,1.1,42115,48,32,25757.0,19007,Kira,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00037,57,40142.0,30.2,25104,36,264,13090.0,24809,Ev Sahibi,Serbest,Tatil,Orta,1,Risksiz
+M00038,27,27382.0,5.1,50499,60,106,50146.0,27791,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00039,41,37003.0,7.2,67497,36,190,24700.0,20704,Aile Yaninda,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00040,29,51791.0,6.5,26511,12,82,56150.0,13262,Kira,Serbest,Egitim,Iyi,0,Risksiz
+M00041,59,58626.0,24.4,42344,48,259,57517.0,25806,Ev Sahibi,Serbest,Tuketici,Iyi,0,Risksiz
+M00042,38,28401.0,6.3,39881,60,123,28541.0,18006,Ev Sahibi,Issiz,Egitim,Orta,2,Riskli
+M00043,24,60653.0,2.3,76218,36,73,11848.0,23487,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00044,45,69401.0,14.8,72080,36,191,0.0,5000,Aile Yaninda,Yari Zamanli,Arac,Orta,0,Risksiz
+M00045,34,52442.0,5.6,48348,24,156,3503.0,21576,Kira,Tam Zamanli,Ev,Kotu,0,Riskli
+M00046,29,78782.0,7.8,75305,24,119,5271.0,12891,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,1,Risksiz
+M00047,46,31072.0,21.1,53600,36,264,54812.0,31226,Aile Yaninda,Serbest,Tatil,Kotu,0,Riskli
+M00048,22,22596.0,1.4,61850,48,25,32085.0,22985,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00049,40,15000.0,11.5,120204,24,270,37013.0,19919,Kira,Tam Zamanli,Isletme,Iyi,1,Riskli
+M00050,48,71929.0,15.3,110214,60,183,0.0,21890,Kira,Tam Zamanli,Ev,Kotu,0,Risksiz
+M00051,27,56779.0,4.8,31013,48,109,8437.0,10012,Aile Yaninda,Yari Zamanli,Egitim,Iyi,0,Risksiz
+M00052,64,43999.0,27.6,94892,48,605,45967.0,30986,Kira,Issiz,Arac,Kotu,0,Riskli
+M00053,28,50039.0,2.7,94342,60,95,35162.0,33931,Kira,Tam Zamanli,Tuketici,Kotu,1,Riskli
+M00054,55,24741.0,21.3,35552,24,381,27350.0,21143,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00055,34,89024.0,11.0,94563,36,157,40167.0,30723,Ev Sahibi,Serbest,Arac,Iyi,0,Riskli
+M00056,37,47326.0,9.8,116138,48,173,59444.0,13447,Kira,Tam Zamanli,Tatil,Iyi,1,Riskli
+M00057,56,46969.0,11.9,36324,60,498,26021.0,11623,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00058,60,58064.0,30.9,42475,60,552,31249.0,18327,Kira,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00059,24,53658.0,1.7,100530,36,52,33467.0,21480,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00060,22,49030.0,0.9,78145,72,44,73058.0,14848,Ev Sahibi,Tam Zamanli,Tatil,Orta,0,Riskli
+M00061,26,30771.0,2.4,86544,24,107,0.0,22302,Ev Sahibi,Serbest,Isletme,Kotu,1,Riskli
+M00062,62,53486.0,20.9,80218,60,603,42298.0,20451,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00063,24,78876.0,3.0,81721,72,60,27934.0,10014,Aile Yaninda,Issiz,Ev,Orta,1,Riskli
+M00064,49,69218.0,,30206,24,298,40202.0,22150,Ev Sahibi,Serbest,Egitim,Kotu,0,Riskli
+M00065,38,73677.0,7.6,101420,48,165,18167.0,24908,Kira,Yari Zamanli,Ev,Orta,0,Riskli
+M00066,46,35798.0,21.5,105088,12,383,29119.0,19372,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00067,64,27187.0,36.4,63118,36,329,42805.0,27221,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00068,54,42736.0,28.0,68696,36,383,86032.0,8261,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00069,30,46003.0,4.4,24067,48,99,44545.0,21744,Ev Sahibi,Serbest,Egitim,Orta,1,Risksiz
+M00070,56,64695.0,20.5,85428,60,313,14735.0,8638,Kira,Tam Zamanli,Arac,Orta,0,Risksiz
+M00071,34,15000.0,12.5,87162,48,148,22372.0,9087,Aile Yaninda,Tam Zamanli,Ev,Kotu,0,Riskli
+M00072,51,72532.0,23.7,68134,36,462,21839.0,12953,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00073,35,42156.0,4.7,103731,60,109,0.0,10464,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00074,28,37316.0,2.7,59978,72,106,24058.0,13616,Kira,Tam Zamanli,Arac,Orta,0,Riskli
+M00075,34,26782.0,8.1,86938,12,107,43191.0,16287,Aile Yaninda,Tam Zamanli,Isletme,Orta,1,Riskli
+M00076,43,15213.0,19.4,39410,72,181,7064.0,24697,Kira,Tam Zamanli,Arac,Kotu,0,Riskli
+M00077,60,59817.0,24.9,69293,24,400,,15431,Kira,Tam Zamanli,Egitim,Orta,0,Riskli
+M00078,41,46320.0,12.6,64769,60,232,38780.0,5315,Kira,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00079,36,21781.0,5.8,76759,36,145,16784.0,27121,Kira,Yari Zamanli,Ev,Orta,1,Riskli
+M00080,65,21689.0,31.2,58914,24,401,27452.0,11303,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00081,38,38956.0,14.3,66056,36,134,58770.0,17530,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00082,44,75042.0,12.7,94781,48,219,43204.0,21572,Kira,Tam Zamanli,Ev,Iyi,1,Risksiz
+M00083,46,40327.0,19.9,56897,36,385,30158.0,19597,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00084,45,17943.0,22.0,21803,12,366,25722.0,26753,Kira,Issiz,Tatil,Iyi,1,Riskli
+M00085,65,40577.0,19.0,122488,48,408,31379.0,21832,Ev Sahibi,Tam Zamanli,Egitim,Orta,0,Riskli
+M00086,61,,25.2,111444,60,454,20788.0,11110,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,1,Riskli
+M00087,49,15000.0,13.7,31232,36,412,0.0,35428,Ev Sahibi,Serbest,Ev,Iyi,0,Risksiz
+M00088,35,44023.0,11.6,90691,24,103,66759.0,19555,Ev Sahibi,Serbest,Arac,Iyi,0,Riskli
+M00089,65,,29.1,54911,36,587,32796.0,16821,Kira,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00090,21,57532.0,0.7,77905,12,41,37167.0,25711,Kira,Tam Zamanli,Ev,Iyi,1,Riskli
+M00091,45,78281.0,19.5,78827,60,182,28958.0,19996,Kira,Yari Zamanli,Tuketici,Orta,2,Riskli
+M00092,27,65278.0,,62968,60,66,16768.0,21194,Ev Sahibi,Tam Zamanli,Ev,Iyi,1,Risksiz
+M00093,29,40160.0,7.6,46487,48,151,26653.0,37937,Aile Yaninda,Serbest,Tuketici,Iyi,0,Risksiz
+M00094,44,,14.9,49284,36,268,1211.0,15799,Ev Sahibi,Yari Zamanli,Arac,Iyi,0,Risksiz
+M00095,21,91320.0,0.4,42514,60,18,70988.0,15458,Kira,Yari Zamanli,Tatil,Iyi,0,Risksiz
+M00096,64,46066.0,31.6,45045,36,371,7779.0,18933,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00097,28,45251.0,6.2,67985,60,96,11425.0,26572,Kira,Yari Zamanli,Ev,Iyi,1,Riskli
+M00098,44,44566.0,11.8,48527,48,300,22075.0,5948,Ev Sahibi,Yari Zamanli,Arac,Kotu,0,Risksiz
+M00099,31,48566.0,9.0,90462,60,154,53185.0,5000,Kira,Serbest,Ev,Orta,1,Riskli
+M00100,37,42402.0,14.3,114617,48,265,30261.0,13303,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00101,28,34674.0,3.7,52598,36,83,7750.0,5000,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00102,55,35157.0,31.2,77182,72,381,52578.0,14601,Aile Yaninda,Tam Zamanli,Tatil,Kotu,0,Riskli
+M00103,55,44410.0,13.5,84991,36,380,43158.0,22020,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00104,53,35218.0,13.9,84160,48,324,39692.0,10874,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,1,Risksiz
+M00105,25,32169.0,2.1,72279,24,51,42883.0,6585,Ev Sahibi,Serbest,Tatil,Orta,1,Riskli
+M00106,62,46916.0,35.1,92280,48,608,73099.0,18555,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00107,59,40410.0,27.0,84467,48,526,69332.0,24900,Ev Sahibi,Serbest,Egitim,Orta,0,Riskli
+M00108,61,72072.0,16.0,32870,24,429,17639.0,5000,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00109,48,15000.0,15.8,96075,12,325,59230.0,24562,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00110,27,64647.0,4.7,96619,48,70,36897.0,24538,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00111,29,67430.0,3.2,47101,60,114,38984.0,25633,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Risksiz
+M00112,28,15000.0,6.6,71138,36,116,0.0,27748,Ev Sahibi,Serbest,Tuketici,Orta,0,Riskli
+M00113,32,38832.0,9.4,90500,24,142,26933.0,35616,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Riskli
+M00114,54,38314.0,20.5,63721,48,501,15369.0,15151,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00115,53,19665.0,29.0,102189,24,381,44905.0,18877,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00116,43,30999.0,12.7,140916,36,224,49279.0,14668,Ev Sahibi,Issiz,Ev,Kotu,0,Riskli
+M00117,44,25010.0,21.4,46420,24,317,0.0,18016,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Riskli
+M00118,57,76541.0,25.9,28569,24,287,29603.0,30263,Ev Sahibi,Tam Zamanli,Egitim,Kotu,0,Risksiz
+M00119,55,61842.0,23.8,79115,24,336,50194.0,7240,Kira,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00120,64,67888.0,17.6,91647,36,404,26640.0,11112,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00121,60,57990.0,33.2,63074,12,397,43123.0,29017,Ev Sahibi,Tam Zamanli,Tuketici,Orta,1,Risksiz
+M00122,42,24677.0,12.2,113598,36,294,36321.0,26160,Kira,Serbest,Tatil,Iyi,0,Riskli
+M00123,47,35559.0,10.7,29842,36,286,36150.0,15095,Ev Sahibi,Tam Zamanli,Arac,Iyi,1,Riskli
+M00124,55,53809.0,10.8,90788,36,457,25116.0,24835,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Riskli
+M00125,21,23002.0,0.6,51824,36,32,8102.0,20730,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00126,55,57834.0,21.6,121581,60,323,9812.0,30002,Ev Sahibi,Tam Zamanli,Arac,Kotu,0,Riskli
+M00127,57,40674.0,27.1,129775,24,487,42768.0,18596,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,2,Riskli
+M00128,34,38253.0,11.7,47000,36,127,30350.0,26205,Kira,Issiz,Egitim,Iyi,1,Riskli
+M00129,23,57797.0,1.0,53513,12,39,27507.0,39136,Kira,Serbest,Tatil,Iyi,0,Risksiz
+M00130,21,52997.0,0.7,95788,12,30,22370.0,22785,Aile Yaninda,Serbest,Tuketici,Iyi,1,Risksiz
+M00131,25,38503.0,2.1,58386,48,57,24507.0,18395,Kira,Serbest,Tuketici,Orta,0,Risksiz
+M00132,46,65868.0,21.2,68638,48,170,48844.0,23780,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00133,34,25541.0,11.1,70762,60,179,23966.0,15078,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00134,59,56087.0,24.4,12410,36,414,5861.0,37104,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00135,47,55676.0,19.6,69585,72,277,43386.0,19441,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00136,29,39428.0,4.4,49308,12,151,26312.0,15817,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00137,35,50870.0,8.7,55206,24,180,30565.0,11314,Kira,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00138,35,22480.0,11.9,113309,12,219,58936.0,26778,Aile Yaninda,Yari Zamanli,Arac,Iyi,1,Riskli
+M00139,46,61632.0,15.0,32305,24,199,29630.0,24937,Kira,Serbest,Ev,Iyi,0,Risksiz
+M00140,62,41672.0,21.6,94396,36,464,35205.0,14021,Kira,Serbest,Ev,,1,Riskli
+M00141,33,35591.0,7.8,61631,48,194,8779.0,22612,Kira,Issiz,Tuketici,Iyi,0,Riskli
+M00142,52,63882.0,25.5,61607,12,363,26046.0,5932,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00143,59,32322.0,19.5,93711,72,482,40971.0,19480,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Riskli
+M00144,52,19648.0,12.9,80202,60,305,2003.0,21622,Aile Yaninda,Yari Zamanli,Arac,Orta,0,Riskli
+M00145,24,16981.0,2.9,87118,36,40,33615.0,31659,Kira,Tam Zamanli,Arac,Kotu,0,Riskli
+M00146,50,55908.0,23.9,99046,12,309,31814.0,11833,Aile Yaninda,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00147,57,21952.0,13.3,60061,24,357,30743.0,7773,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00148,43,76586.0,10.2,51633,24,323,48669.0,10837,Aile Yaninda,Tam Zamanli,Isletme,Iyi,1,Riskli
+M00149,59,15000.0,15.0,37445,24,326,36020.0,7307,Kira,Tam Zamanli,Arac,Iyi,2,Riskli
+M00150,65,75536.0,22.9,45238,36,645,56605.0,28693,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00151,35,48798.0,8.6,158473,24,232,12115.0,30389,Kira,Tam Zamanli,Ev,Kotu,0,Riskli
+M00152,63,43259.0,32.2,107340,36,359,32447.0,20562,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,1,Risksiz
+M00153,49,35191.0,20.0,29468,72,272,31520.0,27770,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00154,56,52184.0,24.2,30326,48,500,10753.0,19072,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Risksiz
+M00155,33,44323.0,6.6,84456,72,206,47213.0,17239,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00156,52,64859.0,25.8,86418,24,325,71844.0,15336,Kira,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00157,27,47056.0,4.1,86467,36,77,29694.0,15517,Ev Sahibi,Serbest,Arac,Orta,1,Riskli
+M00158,42,47705.0,19.5,62351,36,245,39090.0,5618,Ev Sahibi,Serbest,Tuketici,Kotu,0,Risksiz
+M00159,48,38455.0,19.1,66236,12,345,31521.0,20114,Ev Sahibi,Yari Zamanli,Tatil,Iyi,1,Riskli
+M00160,22,43975.0,0.8,79836,12,33,17155.0,17677,Ev Sahibi,Tam Zamanli,Tuketici,Kotu,1,Riskli
+M00161,62,50540.0,29.6,72577,48,523,0.0,23963,Kira,Tam Zamanli,Arac,Kotu,0,Risksiz
+M00162,65,15000.0,22.3,5000,48,301,17296.0,18748,Ev Sahibi,Tam Zamanli,Egitim,Orta,0,Riskli
+M00163,26,20733.0,4.3,63106,36,51,4945.0,16698,Kira,Tam Zamanli,Egitim,Iyi,2,Riskli
+M00164,48,58379.0,9.6,44458,36,273,60674.0,11030,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00165,48,48076.0,,75256,36,265,27928.0,18577,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00166,64,41688.0,35.8,159558,12,392,23773.0,23906,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00167,64,45332.0,19.2,81024,36,457,46005.0,8853,Ev Sahibi,Yari Zamanli,Ev,Kotu,0,Riskli
+M00168,40,51256.0,16.0,60594,24,188,9808.0,18700,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00169,50,35284.0,14.0,97654,24,241,16196.0,19864,Ev Sahibi,Serbest,Tuketici,Iyi,1,Riskli
+M00170,31,30991.0,7.5,84481,72,110,31225.0,12255,Kira,Tam Zamanli,Arac,Orta,1,Riskli
+M00171,48,48525.0,20.1,82603,48,414,48518.0,13297,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00172,45,27389.0,15.2,88206,48,251,39030.0,19845,Ev Sahibi,Issiz,Isletme,Iyi,1,Riskli
+M00173,59,52349.0,18.8,131696,36,392,34470.0,8933,Kira,Issiz,Arac,Iyi,2,Riskli
+M00174,53,15000.0,14.1,36073,36,371,31406.0,20799,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00175,21,63525.0,0.3,84209,24,42,37204.0,10837,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00176,47,53507.0,13.0,42209,24,230,33630.0,26503,Ev Sahibi,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00177,33,49609.0,9.0,86665,24,172,11460.0,36703,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00178,61,62688.0,35.4,42439,60,504,30829.0,11114,Ev Sahibi,Serbest,Tuketici,Kotu,0,Riskli
+M00179,23,74979.0,2.5,57479,48,54,10674.0,22274,Ev Sahibi,Issiz,Egitim,Iyi,0,Riskli
+M00180,59,63259.0,29.6,61147,36,275,31459.0,12186,Kira,Yari Zamanli,Tatil,Iyi,0,Risksiz
+M00181,26,15000.0,4.6,99275,36,91,21348.0,26328,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00182,28,21968.0,5.6,97554,60,65,75709.0,7878,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00183,47,33753.0,12.3,32628,12,312,29282.0,21845,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00184,29,45470.0,7.6,71648,36,131,4724.0,11016,Ev Sahibi,Serbest,Arac,Iyi,0,Risksiz
+M00185,57,54318.0,26.0,48713,36,300,27585.0,16344,Kira,Serbest,Arac,Iyi,0,Risksiz
+M00186,53,31937.0,21.0,32245,60,446,39348.0,9752,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Risksiz
+M00187,62,48362.0,15.4,63489,72,275,60121.0,24579,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00188,64,31403.0,25.0,60746,24,587,19390.0,11304,Aile Yaninda,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00189,44,33993.0,13.8,142801,60,252,1516.0,22416,Ev Sahibi,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00190,35,19680.0,12.3,82989,60,132,,15247,Ev Sahibi,Serbest,Tuketici,Kotu,0,Riskli
+M00191,52,28382.0,20.1,28671,24,240,5149.0,17084,Kira,Tam Zamanli,Tuketici,Iyi,2,Riskli
+M00192,52,20670.0,16.9,53057,36,463,22149.0,19182,Kira,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00193,44,27434.0,21.3,100641,36,171,25363.0,11905,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00194,61,63966.0,15.0,132653,72,326,28747.0,19683,Kira,Serbest,Egitim,Iyi,0,Riskli
+M00195,32,27911.0,6.6,22421,24,123,42405.0,30243,Kira,Tam Zamanli,Tuketici,Kotu,1,Riskli
+M00196,59,92383.0,12.7,13602,60,449,17695.0,11775,Ev Sahibi,Serbest,Arac,Iyi,1,Risksiz
+M00197,22,53880.0,1.5,126129,36,41,25073.0,27374,Kira,Serbest,Isletme,Kotu,1,Riskli
+M00198,23,48327.0,2.6,81688,48,35,29743.0,29985,Aile Yaninda,Issiz,Tuketici,Iyi,0,Risksiz
+M00199,57,29550.0,17.3,43951,36,324,32693.0,11471,Kira,Tam Zamanli,Arac,Kotu,0,Riskli
+M00200,37,57606.0,13.9,86039,48,150,31761.0,6360,Aile Yaninda,Tam Zamanli,Tatil,,0,Riskli
+M00201,22,,1.0,5000,60,31,37848.0,20416,Aile Yaninda,Tam Zamanli,Egitim,Orta,0,Risksiz
+M00202,22,47196.0,1.7,70101,60,37,45189.0,13621,Ev Sahibi,Tam Zamanli,Ev,Iyi,1,Riskli
+M00203,48,91082.0,21.1,79835,60,349,37067.0,32949,Ev Sahibi,Tam Zamanli,Tatil,Iyi,1,Risksiz
+M00204,43,43271.0,18.0,97728,12,193,38165.0,18278,Kira,Tam Zamanli,Arac,Orta,0,Riskli
+M00205,57,65687.0,11.5,39583,48,348,1520.0,11582,Ev Sahibi,Tam Zamanli,Ev,Iyi,1,Risksiz
+M00206,52,32343.0,28.1,72571,24,310,30904.0,8823,Kira,Serbest,Isletme,Kotu,0,Risksiz
+M00207,53,44370.0,24.3,42237,36,483,38631.0,26719,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00208,21,76874.0,0.5,77662,36,41,43121.0,13431,Ev Sahibi,Yari Zamanli,Tuketici,Kotu,0,Riskli
+M00209,39,33715.0,15.2,43140,36,260,17538.0,18351,Ev Sahibi,Serbest,Tuketici,Iyi,1,Risksiz
+M00210,22,77624.0,0.9,57757,36,32,18137.0,25646,Ev Sahibi,Serbest,Arac,Kotu,0,Riskli
+M00211,64,57740.0,36.2,40126,72,301,19666.0,14126,Kira,Serbest,Egitim,Kotu,1,Riskli
+M00212,46,34876.0,9.6,89534,24,239,39655.0,17633,Kira,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00213,52,56383.0,23.1,95754,48,277,48610.0,17867,Kira,Issiz,Isletme,Kotu,1,Riskli
+M00214,26,62506.0,3.7,62961,36,80,22666.0,23467,Kira,Tam Zamanli,Arac,Orta,1,Riskli
+M00215,52,56193.0,11.5,71147,24,416,46343.0,22726,Kira,Tam Zamanli,Tuketici,Iyi,2,Riskli
+M00216,24,16736.0,1.8,26542,24,77,32223.0,16239,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00217,31,31912.0,3.4,61010,72,166,27763.0,18509,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00218,37,40545.0,9.9,68494,60,169,26195.0,15026,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Riskli
+M00219,58,43660.0,18.3,148624,60,460,43439.0,6179,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00220,44,56172.0,15.8,36641,72,221,35860.0,20061,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00221,25,48199.0,2.4,113925,24,45,70965.0,33138,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00222,54,20964.0,16.3,99906,36,418,14660.0,10930,Aile Yaninda,Tam Zamanli,Ev,Iyi,1,Riskli
+M00223,26,51844.0,4.5,78419,48,49,39326.0,11816,Ev Sahibi,Serbest,Isletme,Orta,0,Risksiz
+M00224,42,55991.0,7.2,122759,36,223,20474.0,11034,Kira,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00225,31,55076.0,,81163,36,112,14353.0,23797,Ev Sahibi,Yari Zamanli,Egitim,Iyi,0,Riskli
+M00226,36,64454.0,13.0,81675,36,208,29804.0,21588,Kira,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00227,53,60011.0,23.1,68406,48,425,32472.0,16732,Ev Sahibi,Serbest,Ev,Orta,0,Risksiz
+M00228,29,53265.0,5.9,106707,48,93,82527.0,10656,Kira,Serbest,Egitim,Iyi,2,Riskli
+M00229,26,43737.0,5.0,102894,24,100,26685.0,18739,Aile Yaninda,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00230,36,15103.0,6.6,51230,36,150,9657.0,5483,Kira,Yari Zamanli,Ev,Iyi,0,Riskli
+M00231,49,52733.0,10.1,30423,36,297,34914.0,19147,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00232,23,48738.0,1.3,63911,48,59,0.0,24972,Ev Sahibi,Issiz,Ev,Iyi,0,Risksiz
+M00233,40,49888.0,15.5,45999,24,254,28345.0,7990,Kira,Serbest,Arac,Orta,0,Risksiz
+M00234,56,22019.0,11.5,68094,48,528,30288.0,5740,Ev Sahibi,Serbest,Tuketici,Iyi,0,Riskli
+M00235,39,25541.0,12.3,107123,12,164,44303.0,30636,Kira,Yari Zamanli,Tuketici,Kotu,0,Riskli
+M00236,46,63957.0,23.3,56281,36,316,47525.0,13106,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00237,23,44288.0,2.4,68715,60,54,20936.0,27088,Kira,Serbest,Tatil,Iyi,0,Risksiz
+M00238,39,57267.0,11.6,71741,48,280,27289.0,16768,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00239,40,45510.0,6.8,95453,36,160,16210.0,16704,Ev Sahibi,Tam Zamanli,Isletme,,2,Riskli
+M00240,52,45536.0,25.6,5000,48,408,9695.0,21507,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00241,27,61889.0,4.6,51799,48,95,35578.0,10928,Kira,Issiz,Tatil,Orta,0,Riskli
+M00242,61,35711.0,15.1,76339,60,352,7075.0,19060,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00243,53,46730.0,11.8,106002,48,343,22537.0,14948,Aile Yaninda,Tam Zamanli,Isletme,Orta,0,Riskli
+M00244,60,36679.0,33.8,55243,48,364,12087.0,7436,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00245,59,37179.0,27.4,13703,36,436,39894.0,20700,Kira,Serbest,Arac,Orta,0,Riskli
+M00246,38,39435.0,14.4,88591,24,262,62426.0,15894,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00247,60,48998.0,33.1,50939,36,443,6571.0,16744,Kira,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00248,21,36383.0,0.6,34310,36,33,0.0,8319,Ev Sahibi,Tam Zamanli,Arac,Kotu,1,Riskli
+M00249,31,67604.0,6.7,51270,48,132,27752.0,30731,Aile Yaninda,Serbest,Arac,Orta,0,Risksiz
+M00250,48,28897.0,15.6,64464,36,192,30283.0,25014,Ev Sahibi,Issiz,Ev,Iyi,0,Riskli
+M00251,45,41636.0,12.3,51858,36,212,33936.0,25713,Ev Sahibi,Serbest,Ev,Iyi,0,Riskli
+M00252,43,37085.0,12.9,5000,12,248,21966.0,15556,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00253,51,71046.0,23.7,96912,36,280,26388.0,5000,Kira,Serbest,Tuketici,Orta,0,Risksiz
+M00254,50,48538.0,19.8,108246,36,239,36615.0,33623,Kira,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00255,62,63573.0,35.1,89546,48,441,48728.0,17511,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Riskli
+M00256,55,18260.0,19.8,35869,12,318,0.0,12010,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Riskli
+M00257,27,49807.0,4.6,63955,48,73,23359.0,21334,Ev Sahibi,Tam Zamanli,Tatil,Orta,0,Riskli
+M00258,36,61013.0,10.9,69804,72,175,33849.0,27337,Kira,Serbest,Isletme,Iyi,0,Risksiz
+M00259,46,46481.0,17.0,87964,24,198,13476.0,17816,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00260,22,64179.0,1.4,90050,36,54,61161.0,28229,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00261,21,35689.0,0.4,47975,24,39,18563.0,26664,Aile Yaninda,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00262,32,70368.0,7.3,72460,48,163,29257.0,9389,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Risksiz
+M00263,25,86380.0,1.8,83718,36,48,40008.0,12610,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00264,57,38469.0,19.6,113675,36,476,19357.0,25660,Kira,Tam Zamanli,Tuketici,Orta,2,Riskli
+M00265,52,36981.0,19.0,91135,36,424,0.0,5000,Ev Sahibi,Tam Zamanli,Ev,Kotu,1,Riskli
+M00266,29,71161.0,6.2,93672,60,134,22284.0,16804,Kira,Yari Zamanli,Ev,Iyi,1,Riskli
+M00267,61,73432.0,35.7,72515,24,297,48530.0,6553,Kira,Yari Zamanli,Ev,Iyi,0,Risksiz
+M00268,55,35589.0,23.1,112314,12,413,23936.0,14188,Ev Sahibi,Serbest,Arac,Kotu,0,Riskli
+M00269,39,37437.0,14.2,82293,60,266,14764.0,15609,Kira,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00270,36,39928.0,9.7,44167,48,191,46662.0,15134,Kira,Serbest,Egitim,Iyi,0,Riskli
+M00271,23,20800.0,2.0,112101,60,56,24046.0,13582,Aile Yaninda,Issiz,Arac,Iyi,1,Riskli
+M00272,40,28464.0,6.9,90937,48,213,20817.0,9223,Ev Sahibi,Serbest,Isletme,Iyi,0,Risksiz
+M00273,44,26925.0,10.9,56709,60,266,32690.0,36335,Kira,Yari Zamanli,Arac,Iyi,0,Riskli
+M00274,53,31180.0,17.1,55615,36,220,43874.0,32940,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Riskli
+M00275,44,44376.0,14.0,78897,48,289,72871.0,8703,Kira,Issiz,Arac,Iyi,0,Riskli
+M00276,31,49216.0,,83896,60,86,44890.0,30657,Ev Sahibi,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00277,28,72909.0,3.1,75919,48,95,50877.0,14804,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00278,56,27030.0,16.8,79339,24,317,20893.0,19033,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00279,58,62718.0,33.6,120999,36,415,11534.0,17494,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00280,60,41148.0,20.0,102146,24,297,31122.0,12722,Kira,Issiz,Tuketici,Orta,0,Riskli
+M00281,40,44110.0,11.8,75719,24,254,31929.0,25871,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00282,55,57147.0,14.6,98239,36,457,10587.0,19007,Kira,Tam Zamanli,Arac,Orta,1,Riskli
+M00283,45,24791.0,16.7,39024,36,197,26845.0,14188,Kira,Yari Zamanli,Arac,Iyi,0,Risksiz
+M00284,55,51883.0,16.4,81938,48,253,37188.0,7563,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00285,45,47996.0,10.6,124279,36,193,36487.0,10851,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00286,49,53864.0,17.7,63459,48,404,39077.0,5000,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00287,38,50205.0,5.5,44571,24,205,35237.0,18098,Kira,Yari Zamanli,Isletme,,0,Riskli
+M00288,38,89195.0,5.5,50437,24,195,20874.0,8427,Aile Yaninda,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00289,22,33521.0,0.9,37311,24,27,20750.0,15876,Kira,Serbest,Egitim,Orta,0,Riskli
+M00290,55,35442.0,11.3,46457,36,414,8419.0,28961,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00291,36,33783.0,5.8,58885,24,233,62126.0,27594,Kira,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00292,61,35001.0,20.6,27833,36,543,30242.0,17742,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00293,56,33527.0,28.1,70469,36,418,25953.0,17303,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00294,53,66402.0,21.2,97068,60,231,13282.0,33039,Ev Sahibi,Serbest,Arac,Orta,0,Riskli
+M00295,24,70569.0,2.4,42767,12,41,82842.0,22166,Ev Sahibi,Serbest,Egitim,Orta,0,Riskli
+M00296,53,34727.0,15.7,115579,48,224,10680.0,15378,Aile Yaninda,Tam Zamanli,Arac,Iyi,1,Riskli
+M00297,34,30018.0,12.0,85324,48,129,22281.0,6592,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00298,41,53485.0,11.3,100917,60,163,37485.0,21151,Kira,Yari Zamanli,Tuketici,Kotu,0,Riskli
+M00299,40,35060.0,7.0,50265,60,178,40804.0,24635,Aile Yaninda,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00300,28,56393.0,5.4,95636,12,91,47243.0,12947,Kira,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00301,27,48653.0,2.6,37242,24,122,62537.0,20330,Ev Sahibi,Issiz,Arac,Iyi,0,Risksiz
+M00302,23,17717.0,1.5,96707,60,54,39111.0,15091,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00303,37,72855.0,10.3,75155,36,241,10991.0,16528,Kira,Issiz,Tuketici,Kotu,0,Riskli
+M00304,53,77326.0,27.2,86598,48,409,25375.0,5000,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Risksiz
+M00305,32,33970.0,7.2,34732,48,97,35541.0,16226,Kira,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00306,42,38021.0,15.9,43148,48,285,67228.0,25755,Kira,Tam Zamanli,Ev,Orta,0,Risksiz
+M00307,42,50146.0,19.7,87917,60,197,4840.0,12949,Kira,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00308,50,51020.0,11.4,41550,72,356,51646.0,18420,Ev Sahibi,Tam Zamanli,Egitim,,3,Riskli
+M00309,58,56854.0,17.7,83896,48,349,33238.0,11952,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00310,58,81184.0,20.4,28986,36,559,45081.0,20884,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00311,65,41815.0,24.9,95445,60,381,28164.0,16268,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00312,28,30631.0,4.4,33024,12,82,14836.0,10486,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Risksiz
+M00313,47,20172.0,22.8,86569,24,390,43516.0,28660,Ev Sahibi,Yari Zamanli,Ev,Iyi,2,Riskli
+M00314,47,31843.0,19.7,88769,60,180,41780.0,25431,Kira,Tam Zamanli,Egitim,Orta,0,Riskli
+M00315,54,44404.0,22.6,49097,24,417,47497.0,13161,Kira,Tam Zamanli,Tatil,Kotu,0,Risksiz
+M00316,41,77302.0,10.2,87461,24,271,29761.0,21982,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00317,50,35683.0,23.8,77813,24,406,19203.0,22299,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00318,53,49028.0,28.8,53835,60,483,1942.0,23138,Aile Yaninda,Tam Zamanli,Egitim,Orta,0,Riskli
+M00319,48,44704.0,22.2,39743,36,414,44749.0,5000,Aile Yaninda,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00320,53,66391.0,9.9,11121,48,228,37630.0,26053,Aile Yaninda,Serbest,Egitim,Orta,1,Riskli
+M00321,25,90485.0,3.4,80490,24,88,12616.0,13442,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,1,Risksiz
+M00322,39,35444.0,6.3,23056,48,235,20306.0,15137,Kira,Tam Zamanli,Arac,Iyi,1,Risksiz
+M00323,24,36190.0,1.8,72860,60,67,21598.0,39103,Ev Sahibi,Serbest,Arac,Orta,0,Riskli
+M00324,55,63795.0,11.8,62097,36,260,,20415,Aile Yaninda,Yari Zamanli,Tuketici,Kotu,0,Riskli
+M00325,37,57274.0,11.3,90374,36,213,15282.0,14909,Kira,Tam Zamanli,Ev,Iyi,1,Riskli
+M00326,64,78241.0,31.3,60939,24,638,9591.0,5000,Aile Yaninda,Serbest,Tuketici,Kotu,0,Risksiz
+M00327,48,55511.0,10.3,60117,72,399,22575.0,29118,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00328,50,38533.0,15.9,91956,48,304,16703.0,7238,Ev Sahibi,Serbest,Arac,Kotu,0,Riskli
+M00329,49,55632.0,16.6,80052,60,196,714.0,9972,Ev Sahibi,Tam Zamanli,Egitim,Orta,1,Riskli
+M00330,26,64957.0,3.1,79485,36,71,66407.0,15349,Aile Yaninda,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00331,55,59769.0,13.0,84078,60,467,52546.0,29331,Kira,Issiz,Tuketici,Orta,1,Riskli
+M00332,61,54131.0,22.6,23933,60,499,15978.0,24186,Ev Sahibi,Tam Zamanli,Arac,Iyi,1,Riskli
+M00333,57,64200.0,27.8,92704,48,377,34904.0,16737,Ev Sahibi,Yari Zamanli,Arac,Iyi,0,Riskli
+M00334,44,66047.0,8.2,88374,72,167,37514.0,20466,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00335,49,69879.0,10.1,39500,36,292,51440.0,13197,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00336,51,56677.0,15.9,62678,24,322,15265.0,19117,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00337,55,41992.0,30.3,68821,48,497,49658.0,18587,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Risksiz
+M00338,53,47641.0,23.1,65965,48,390,20138.0,25750,Kira,Yari Zamanli,Tuketici,Orta,0,Riskli
+M00339,41,66717.0,14.9,80016,48,195,5954.0,25737,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00340,52,30295.0,16.5,112941,24,347,43034.0,21952,Ev Sahibi,Tam Zamanli,Isletme,Orta,1,Riskli
+M00341,43,51636.0,15.1,102453,36,163,53234.0,15101,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00342,53,37920.0,10.1,30633,36,482,76582.0,23935,Kira,Tam Zamanli,Isletme,Kotu,1,Riskli
+M00343,23,45517.0,2.0,88662,36,44,8405.0,17264,Aile Yaninda,Issiz,Arac,Orta,0,Riskli
+M00344,38,68012.0,15.3,109868,48,196,42581.0,9345,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,2,Riskli
+M00345,45,48440.0,16.7,81604,48,239,22624.0,14774,Ev Sahibi,Yari Zamanli,Ev,Iyi,0,Risksiz
+M00346,62,45836.0,34.6,102729,24,504,44100.0,18676,Kira,Serbest,Tuketici,Orta,0,Riskli
+M00347,51,20523.0,22.8,130368,36,373,3531.0,25282,Kira,Serbest,Egitim,Iyi,0,Riskli
+M00348,23,58433.0,1.1,100711,36,59,7270.0,16532,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00349,60,56619.0,33.7,77479,24,342,16034.0,8326,Kira,Serbest,Tuketici,Iyi,0,Riskli
+M00350,44,83939.0,8.2,101353,60,222,31421.0,18454,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00351,52,39460.0,19.9,74347,60,238,18461.0,18908,Ev Sahibi,Serbest,Ev,Iyi,0,Riskli
+M00352,42,48945.0,8.5,70717,36,270,41863.0,19487,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00353,43,49489.0,7.1,59458,48,158,48484.0,25359,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00354,22,73394.0,1.1,116902,60,43,40792.0,26151,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00355,47,43285.0,,45447,60,376,59138.0,13246,Kira,Serbest,Tuketici,Orta,0,Riskli
+M00356,62,50022.0,24.8,115971,24,578,37485.0,13071,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00357,22,55942.0,1.3,84996,72,38,8096.0,9678,Aile Yaninda,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00358,46,48359.0,8.5,28021,36,271,54541.0,23591,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00359,37,36964.0,6.4,81029,36,126,19107.0,29591,Ev Sahibi,Serbest,Tuketici,Iyi,0,Riskli
+M00360,60,48494.0,25.4,6999,12,477,46388.0,15479,Kira,Serbest,Tuketici,Iyi,0,Risksiz
+M00361,53,64325.0,16.7,88765,36,440,58327.0,16069,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Riskli
+M00362,29,26523.0,6.6,96557,24,88,38220.0,29734,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00363,63,47393.0,29.7,52229,24,422,,22044,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00364,59,32398.0,31.5,73706,36,521,13472.0,21490,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00365,49,66511.0,20.7,128625,60,404,53809.0,8473,Aile Yaninda,Serbest,Arac,Iyi,0,Riskli
+M00366,62,17583.0,23.4,54828,60,350,26956.0,23430,Ev Sahibi,Tam Zamanli,Egitim,Orta,0,Riskli
+M00367,46,34939.0,18.3,38233,36,291,31432.0,10567,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Risksiz
+M00368,55,51790.0,16.3,114450,60,279,43659.0,8928,Kira,Tam Zamanli,Arac,Orta,0,Risksiz
+M00369,45,73179.0,12.1,128878,60,184,,15226,Kira,Tam Zamanli,Egitim,Iyi,1,Riskli
+M00370,44,43816.0,18.6,70111,60,346,35018.0,13314,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00371,33,35006.0,7.4,100344,24,188,26244.0,16227,Kira,Tam Zamanli,Tuketici,Iyi,2,Riskli
+M00372,27,78861.0,5.5,110244,48,109,24372.0,6472,Ev Sahibi,Tam Zamanli,Tuketici,Kotu,0,Risksiz
+M00373,56,18936.0,28.6,47725,72,243,45442.0,25671,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00374,65,15000.0,36.7,55441,48,599,39964.0,27021,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00375,40,52920.0,17.0,106926,36,209,25369.0,5000,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00376,21,35963.0,0.6,120550,36,26,49478.0,25828,Kira,Tam Zamanli,Tatil,Orta,0,Riskli
+M00377,28,26618.0,3.9,86886,48,104,27677.0,11516,Kira,Serbest,Tatil,Iyi,0,Riskli
+M00378,36,57750.0,10.4,43606,36,121,14670.0,24856,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Riskli
+M00379,34,49388.0,7.3,129612,24,193,16339.0,17452,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00380,32,34847.0,7.9,54071,36,149,12383.0,18230,Kira,Yari Zamanli,Ev,Iyi,1,Risksiz
+M00381,43,21955.0,16.6,59946,60,187,25097.0,16519,Kira,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00382,35,60704.0,10.7,80270,60,128,52207.0,27697,Kira,Tam Zamanli,Isletme,Kotu,0,Riskli
+M00383,48,56704.0,14.7,116625,24,224,15508.0,8083,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00384,54,43215.0,13.6,95619,72,232,33393.0,22863,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00385,22,78239.0,1.1,82446,36,43,18180.0,26811,Ev Sahibi,Yari Zamanli,Tuketici,,2,Riskli
+M00386,52,25738.0,12.3,83899,48,433,25314.0,23731,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Riskli
+M00387,43,17541.0,19.2,71305,48,153,2819.0,36598,Ev Sahibi,Serbest,Ev,Orta,0,Riskli
+M00388,42,32546.0,11.2,86744,60,153,26030.0,13768,Kira,Serbest,Tuketici,Orta,0,Riskli
+M00389,45,44179.0,9.8,5000,72,286,26513.0,25658,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Riskli
+M00390,42,49380.0,6.9,61102,36,301,39725.0,17151,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00391,42,40658.0,15.1,77240,60,207,34019.0,27867,Aile Yaninda,Yari Zamanli,Tatil,Orta,0,Riskli
+M00392,62,51337.0,28.6,35470,24,387,8429.0,17938,Kira,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00393,26,22472.0,3.0,81590,48,86,49516.0,14897,Aile Yaninda,Tam Zamanli,Arac,Kotu,0,Riskli
+M00394,35,70988.0,5.1,63866,48,139,33785.0,28449,Ev Sahibi,Serbest,Tuketici,Orta,1,Riskli
+M00395,63,43521.0,23.5,122664,48,280,33571.0,14068,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00396,57,65111.0,18.0,117191,24,463,29835.0,6698,Kira,Issiz,Arac,Iyi,0,Risksiz
+M00397,53,51169.0,23.3,56026,60,385,20680.0,13865,Ev Sahibi,Yari Zamanli,Tuketici,Orta,0,Riskli
+M00398,28,53222.0,5.3,65475,24,106,33920.0,22952,Aile Yaninda,Serbest,Arac,Iyi,0,Riskli
+M00399,64,55256.0,22.8,67782,12,549,38561.0,29136,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00400,64,53059.0,19.0,56450,48,524,0.0,18889,Ev Sahibi,Tam Zamanli,Isletme,Orta,1,Risksiz
+M00401,25,56569.0,4.5,75851,36,54,20302.0,28546,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00402,59,68925.0,22.3,47252,60,362,25411.0,7135,Kira,Tam Zamanli,Arac,Orta,0,Risksiz
+M00403,24,48537.0,2.9,36082,36,42,34611.0,14454,Ev Sahibi,Tam Zamanli,Tatil,Iyi,2,Riskli
+M00404,26,57762.0,2.3,88681,24,56,51480.0,15691,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00405,65,43385.0,26.6,88886,60,536,16109.0,17084,Aile Yaninda,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00406,52,70922.0,10.1,45871,36,438,21037.0,18673,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00407,50,32825.0,18.1,96861,24,438,20774.0,23527,Ev Sahibi,Serbest,Tuketici,Kotu,0,Riskli
+M00408,55,77417.0,30.7,51053,48,408,,14442,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00409,60,44277.0,21.2,77595,36,314,23751.0,19112,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00410,36,19246.0,5.2,94610,48,123,43874.0,17639,Ev Sahibi,Yari Zamanli,Arac,Iyi,0,Riskli
+M00411,33,47306.0,4.1,68992,36,188,11031.0,10593,Aile Yaninda,Issiz,Ev,Orta,0,Riskli
+M00412,62,32741.0,22.4,83642,60,468,37701.0,17091,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00413,50,60132.0,11.9,54507,60,350,0.0,16851,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00414,39,33253.0,6.0,64106,48,257,19896.0,16679,Kira,Tam Zamanli,Ev,Kotu,0,Riskli
+M00415,37,36969.0,12.8,63824,24,221,24069.0,18254,Kira,Serbest,Tuketici,Orta,0,Risksiz
+M00416,39,15000.0,10.9,47603,60,266,60147.0,18605,Kira,Serbest,Arac,Iyi,0,Riskli
+M00417,48,36858.0,13.3,64697,48,193,25054.0,14542,Ev Sahibi,Yari Zamanli,Egitim,Iyi,0,Riskli
+M00418,46,15000.0,21.8,23541,48,335,0.0,28182,Aile Yaninda,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00419,57,16490.0,13.7,55265,36,499,0.0,8644,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00420,46,58687.0,22.7,61454,60,232,30613.0,12232,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00421,43,59144.0,11.2,62315,48,278,41048.0,40240,Kira,Yari Zamanli,Ev,Iyi,0,Riskli
+M00422,29,52658.0,7.5,62755,24,94,36758.0,9696,Ev Sahibi,Yari Zamanli,Arac,Iyi,1,Riskli
+M00423,32,27594.0,7.9,68147,36,191,33016.0,7170,Ev Sahibi,Issiz,Tuketici,Iyi,0,Risksiz
+M00424,21,44141.0,0.8,84383,60,19,50921.0,23876,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00425,21,44935.0,0.9,96236,12,32,20287.0,5000,Aile Yaninda,Tam Zamanli,Arac,Orta,1,Riskli
+M00426,54,24149.0,16.1,50507,72,264,46108.0,16118,Aile Yaninda,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00427,52,72061.0,28.1,33904,48,398,624.0,35167,Kira,Yari Zamanli,Tuketici,Iyi,1,Risksiz
+M00428,45,60793.0,13.3,38739,48,200,13711.0,5641,Aile Yaninda,Serbest,Isletme,Iyi,0,Risksiz
+M00429,60,,21.3,55384,36,331,0.0,5000,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00430,65,45484.0,22.7,59442,24,468,25053.0,6007,Ev Sahibi,Tam Zamanli,Egitim,Iyi,1,Risksiz
+M00431,21,48751.0,0.6,46900,72,40,29167.0,25187,Kira,Tam Zamanli,Tuketici,,0,Riskli
+M00432,36,15000.0,6.3,31117,36,138,32054.0,26998,Kira,Tam Zamanli,Tatil,Kotu,0,Riskli
+M00433,59,40551.0,24.7,56316,60,293,31114.0,13899,Aile Yaninda,Serbest,Ev,Iyi,0,Risksiz
+M00434,25,32724.0,3.1,75443,36,85,13304.0,23466,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00435,42,,16.7,87851,24,240,26576.0,29122,Ev Sahibi,Serbest,Arac,Iyi,0,Riskli
+M00436,49,39940.0,23.2,53277,12,412,3046.0,32299,Kira,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00437,23,77358.0,1.7,57610,36,36,54538.0,16029,Kira,Serbest,Egitim,Orta,0,Riskli
+M00438,32,56535.0,,42199,72,156,24535.0,5000,Kira,Tam Zamanli,Tuketici,Kotu,0,Risksiz
+M00439,46,34719.0,11.8,69057,36,220,21200.0,11433,Ev Sahibi,Serbest,Egitim,Iyi,1,Riskli
+M00440,36,55306.0,6.7,44547,36,131,58601.0,14586,Ev Sahibi,Tam Zamanli,Arac,Kotu,1,Riskli
+M00441,57,70188.0,12.4,87194,36,447,7640.0,15928,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00442,42,61643.0,11.1,16424,36,258,9739.0,16497,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00443,49,46073.0,13.4,59211,36,373,10268.0,26951,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Risksiz
+M00444,34,33355.0,12.3,79033,60,136,28778.0,28195,Ev Sahibi,Tam Zamanli,Egitim,Kotu,2,Riskli
+M00445,48,57568.0,,75515,36,288,37769.0,16627,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00446,25,52083.0,2.5,150791,36,65,43314.0,26788,Aile Yaninda,Issiz,Tuketici,Iyi,0,Riskli
+M00447,50,61113.0,19.4,80494,24,444,76296.0,20861,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00448,25,56433.0,1.9,39878,72,58,0.0,18516,Kira,Serbest,Arac,Iyi,0,Risksiz
+M00449,32,63892.0,6.8,67136,24,117,40957.0,25252,Kira,Issiz,Arac,Iyi,0,Risksiz
+M00450,36,35366.0,10.8,16713,12,159,19972.0,18578,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00451,46,68713.0,15.4,67582,48,294,19445.0,34462,Kira,Yari Zamanli,Tatil,Orta,0,Riskli
+M00452,46,48557.0,14.1,45008,48,225,18844.0,6493,Ev Sahibi,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00453,41,82355.0,18.8,97462,36,306,13642.0,13879,Kira,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00454,59,32595.0,32.3,53514,36,333,60321.0,16988,Kira,Tam Zamanli,Isletme,Iyi,1,Riskli
+M00455,56,76247.0,24.3,66497,60,500,45161.0,21516,Ev Sahibi,Issiz,Arac,Orta,0,Riskli
+M00456,53,48562.0,21.2,50933,24,239,30418.0,28144,Kira,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00457,50,33274.0,20.2,122166,60,360,54318.0,17805,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00458,57,36290.0,15.6,60363,48,517,2774.0,6622,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00459,43,39234.0,12.4,124977,36,184,6047.0,24740,Ev Sahibi,Serbest,Tuketici,Iyi,2,Riskli
+M00460,30,52635.0,3.2,94425,36,165,0.0,24040,Kira,Tam Zamanli,Arac,Orta,0,Riskli
+M00461,25,54411.0,2.9,84462,24,67,17411.0,5000,Kira,Yari Zamanli,Arac,Kotu,0,Risksiz
+M00462,56,34673.0,22.5,81062,48,515,32911.0,17970,Ev Sahibi,Yari Zamanli,Arac,Iyi,0,Risksiz
+M00463,54,44562.0,14.8,81814,36,411,,5279,Ev Sahibi,Yari Zamanli,Tatil,Orta,0,Risksiz
+M00464,51,83561.0,27.2,12170,36,278,32688.0,12683,Ev Sahibi,Issiz,Egitim,Iyi,0,Risksiz
+M00465,30,76096.0,8.5,61633,48,90,4601.0,10778,Ev Sahibi,Serbest,Tuketici,Orta,0,Risksiz
+M00466,39,52854.0,13.9,95355,72,177,44457.0,24474,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00467,52,45684.0,19.8,68533,36,229,34313.0,18935,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00468,21,47161.0,0.8,27844,60,21,43195.0,7715,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00469,25,56043.0,1.9,68428,36,48,,25041,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00470,65,26590.0,34.8,121123,12,441,35607.0,6530,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00471,24,40367.0,1.5,107407,24,74,8620.0,20641,Kira,Tam Zamanli,Ev,Kotu,0,Riskli
+M00472,36,15000.0,12.4,68140,36,128,22848.0,11488,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00473,44,52186.0,11.2,98543,24,183,39619.0,15075,Ev Sahibi,Issiz,Tatil,Kotu,0,Riskli
+M00474,36,56650.0,13.2,59005,12,201,31640.0,22034,Kira,Tam Zamanli,Ev,Orta,1,Riskli
+M00475,22,36303.0,1.7,18884,60,30,14672.0,22172,Ev Sahibi,Issiz,Ev,Iyi,0,Riskli
+M00476,48,73332.0,10.9,42266,60,203,30113.0,28696,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00477,52,22936.0,18.5,116887,48,249,2432.0,17342,Kira,Yari Zamanli,Arac,Orta,0,Riskli
+M00478,47,18641.0,24.0,61780,24,388,50705.0,20452,Ev Sahibi,Serbest,Tatil,Orta,0,Riskli
+M00479,40,49040.0,11.8,62698,24,277,26305.0,14498,Kira,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00480,44,63848.0,19.6,61005,12,230,50134.0,19456,Kira,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00481,32,75311.0,7.8,127124,48,157,20522.0,21516,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00482,55,36740.0,18.4,118779,60,381,20576.0,17214,Aile Yaninda,Tam Zamanli,Arac,Kotu,0,Riskli
+M00483,53,64416.0,15.6,136563,36,400,16245.0,5000,Ev Sahibi,Issiz,Isletme,Iyi,0,Risksiz
+M00484,53,44307.0,13.9,65229,24,401,45771.0,20652,Kira,Serbest,Ev,Iyi,0,Riskli
+M00485,63,41893.0,32.6,78869,36,496,17230.0,20916,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00486,57,60906.0,19.7,24501,36,317,41603.0,12559,Ev Sahibi,Tam Zamanli,Arac,Orta,1,Riskli
+M00487,32,56742.0,7.3,114308,36,88,23116.0,7725,Ev Sahibi,Tam Zamanli,Isletme,Orta,1,Risksiz
+M00488,23,16625.0,1.8,34967,48,48,0.0,29807,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00489,21,71578.0,0.6,76503,48,39,19734.0,21932,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00490,53,69842.0,27.0,37081,24,369,8776.0,16167,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00491,60,33740.0,35.5,52334,12,532,30610.0,8904,Ev Sahibi,Tam Zamanli,Tatil,Iyi,1,Riskli
+M00492,30,52124.0,5.4,44882,72,167,8573.0,11425,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00493,63,53893.0,34.2,51764,24,329,46668.0,28421,Ev Sahibi,Tam Zamanli,Tatil,Kotu,2,Riskli
+M00494,64,49692.0,33.4,53826,12,531,28361.0,19101,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,1,Risksiz
+M00495,49,35095.0,18.7,53552,24,353,26803.0,13595,Aile Yaninda,Tam Zamanli,Ev,Iyi,1,Riskli
+M00496,33,32911.0,11.4,95000,12,208,41806.0,22078,Aile Yaninda,Issiz,Ev,Kotu,1,Riskli
+M00497,32,44540.0,5.0,36854,36,194,47350.0,11485,Aile Yaninda,Serbest,Egitim,Iyi,0,Riskli
+M00498,51,66109.0,11.3,76616,60,379,29638.0,30007,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Risksiz
+M00499,22,54785.0,1.6,106539,36,32,16118.0,28822,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00500,55,38329.0,19.7,54604,36,458,0.0,14267,Kira,Serbest,Arac,Iyi,0,Risksiz
+M00501,43,58891.0,18.6,48462,48,171,17651.0,12971,Kira,Serbest,Egitim,Kotu,0,Risksiz
+M00502,37,15000.0,14.2,63084,36,233,18890.0,5000,Ev Sahibi,Serbest,Arac,Orta,1,Riskli
+M00503,46,65678.0,8.8,105392,60,372,31927.0,6147,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00504,28,15000.0,6.6,75823,60,91,23787.0,7284,Ev Sahibi,Issiz,Ev,Orta,0,Riskli
+M00505,49,38476.0,16.5,54064,12,342,42383.0,19082,Ev Sahibi,Tam Zamanli,Ev,Kotu,1,Riskli
+M00506,46,24846.0,15.8,84516,60,264,18966.0,15390,Kira,Yari Zamanli,Ev,Iyi,0,Riskli
+M00507,30,21696.0,6.8,36931,36,114,28973.0,7237,Kira,Serbest,Isletme,Iyi,1,Riskli
+M00508,46,65895.0,22.3,90441,72,238,51312.0,15751,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Riskli
+M00509,54,36581.0,10.6,82258,36,435,36153.0,22043,Kira,Serbest,Tuketici,Iyi,0,Riskli
+M00510,61,51237.0,24.0,60766,72,580,28919.0,22223,Kira,Tam Zamanli,Ev,Orta,1,Riskli
+M00511,27,44155.0,5.0,44842,48,122,19165.0,5000,Kira,Issiz,Ev,Orta,0,Riskli
+M00512,24,53587.0,2.9,43400,24,44,18602.0,16974,Kira,Tam Zamanli,Egitim,Orta,1,Riskli
+M00513,65,46383.0,32.2,86045,36,611,14689.0,6933,Ev Sahibi,Issiz,Egitim,Iyi,0,Riskli
+M00514,31,21906.0,4.2,106869,72,155,20262.0,25214,Kira,Tam Zamanli,Isletme,Iyi,1,Riskli
+M00515,49,62933.0,13.9,50881,60,249,43602.0,24273,Ev Sahibi,Yari Zamanli,Isletme,Orta,1,Risksiz
+M00516,56,36112.0,18.5,83752,24,248,26006.0,10816,Kira,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00517,45,16982.0,19.6,7389,48,220,5704.0,11872,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00518,41,37294.0,9.8,52461,36,306,61827.0,14310,Kira,Tam Zamanli,Egitim,Iyi,1,Risksiz
+M00519,56,72014.0,15.4,69068,12,420,35759.0,5000,Ev Sahibi,Yari Zamanli,Arac,Iyi,0,Risksiz
+M00520,30,60304.0,8.7,42709,36,141,4675.0,20688,Ev Sahibi,Tam Zamanli,Isletme,Kotu,1,Riskli
+M00521,57,38724.0,11.3,41905,24,314,22047.0,15817,Kira,Tam Zamanli,Tatil,Iyi,1,Riskli
+M00522,29,38713.0,8.1,49967,60,129,31996.0,25761,Aile Yaninda,Tam Zamanli,Tatil,Kotu,0,Risksiz
+M00523,44,39211.0,16.9,78766,36,162,60683.0,9213,Ev Sahibi,Issiz,Arac,Iyi,0,Risksiz
+M00524,55,82381.0,27.9,64380,60,333,10054.0,13047,Kira,Tam Zamanli,Ev,Orta,0,Riskli
+M00525,55,,16.7,5000,12,408,47569.0,5948,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00526,56,52741.0,11.1,6379,36,272,55191.0,9966,Aile Yaninda,Tam Zamanli,Arac,Orta,0,Riskli
+M00527,38,63545.0,13.4,51794,24,252,18684.0,8544,Ev Sahibi,Tam Zamanli,Egitim,Orta,1,Risksiz
+M00528,59,49298.0,31.2,83731,24,323,25005.0,25968,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00529,52,40337.0,23.8,5000,12,381,11346.0,12414,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00530,44,41466.0,9.3,55008,24,240,26338.0,18993,Ev Sahibi,Serbest,Ev,Iyi,0,Riskli
+M00531,43,43711.0,17.3,54213,36,269,29341.0,14954,Ev Sahibi,Yari Zamanli,Tuketici,Orta,0,Riskli
+M00532,52,44330.0,24.4,111650,36,233,41874.0,7844,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Risksiz
+M00533,57,58097.0,25.7,58449,36,239,49623.0,16654,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00534,32,45935.0,9.1,81490,36,186,16534.0,22793,Ev Sahibi,Yari Zamanli,Tuketici,Kotu,0,Riskli
+M00535,33,58188.0,10.5,74238,60,122,0.0,8338,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00536,43,43547.0,15.4,6083,60,314,29618.0,24473,Kira,Serbest,Tatil,Iyi,0,Risksiz
+M00537,45,46415.0,8.8,93046,36,378,35284.0,11202,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00538,55,15000.0,20.7,76462,36,285,34490.0,14136,Aile Yaninda,Tam Zamanli,Ev,Iyi,1,Riskli
+M00539,61,61494.0,14.2,85248,24,349,24120.0,22245,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00540,50,51237.0,16.3,187787,72,362,32246.0,12693,Kira,Serbest,Arac,Iyi,0,Riskli
+M00541,37,62964.0,9.3,7477,12,261,57278.0,18301,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00542,40,15000.0,6.8,121741,36,293,36871.0,15482,Ev Sahibi,Tam Zamanli,Ev,Iyi,1,Riskli
+M00543,45,82591.0,12.7,61377,36,271,23279.0,19035,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00544,42,42487.0,8.1,78620,36,297,20996.0,5000,Ev Sahibi,Yari Zamanli,Tuketici,Orta,0,Risksiz
+M00545,33,64947.0,10.2,68635,24,106,26943.0,5000,Kira,Serbest,Arac,Iyi,0,Risksiz
+M00546,39,26282.0,16.5,57273,60,290,59461.0,22928,Aile Yaninda,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00547,56,56030.0,12.4,52905,24,521,26701.0,26297,Ev Sahibi,Tam Zamanli,Isletme,Iyi,1,Risksiz
+M00548,32,26039.0,10.5,79885,48,102,29644.0,10716,Aile Yaninda,Issiz,Ev,Orta,0,Riskli
+M00549,61,33772.0,25.2,24485,24,361,21318.0,16048,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00550,39,79453.0,,92517,12,143,49782.0,20358,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00551,32,41568.0,4.2,57514,60,114,65277.0,23546,Kira,Tam Zamanli,Arac,Orta,0,Risksiz
+M00552,29,48914.0,5.4,36098,24,138,38111.0,5000,Kira,Yari Zamanli,Ev,Orta,1,Riskli
+M00553,27,60661.0,5.4,56500,60,81,31490.0,10912,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00554,48,53922.0,20.3,107714,36,201,30662.0,15339,Kira,Serbest,Tatil,Iyi,0,Riskli
+M00555,34,47708.0,4.6,53940,12,140,0.0,23625,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00556,51,51569.0,10.7,80754,72,457,43413.0,37987,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00557,39,88261.0,10.3,48071,24,232,32415.0,16176,Ev Sahibi,Serbest,Ev,Orta,0,Risksiz
+M00558,36,43963.0,7.6,92738,60,168,37710.0,6744,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00559,25,48620.0,2.2,90565,24,51,17194.0,21218,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00560,55,63912.0,16.4,125458,60,514,23080.0,28568,Ev Sahibi,Yari Zamanli,Tatil,Iyi,1,Riskli
+M00561,32,64899.0,9.4,64733,12,176,22602.0,18864,Ev Sahibi,Serbest,Tuketici,Orta,1,Riskli
+M00562,45,66367.0,21.4,90060,36,223,48389.0,10747,Ev Sahibi,Serbest,Egitim,Iyi,0,Risksiz
+M00563,41,56497.0,11.4,72942,60,151,23182.0,25664,Kira,Issiz,Tuketici,Orta,0,Riskli
+M00564,56,24426.0,30.4,108876,60,245,67488.0,23308,Kira,Serbest,Arac,Iyi,1,Riskli
+M00565,43,74402.0,11.3,48435,60,174,37756.0,9791,Kira,Tam Zamanli,Arac,Orta,0,Risksiz
+M00566,36,24366.0,9.4,92350,60,192,7038.0,21051,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00567,59,50447.0,17.0,64159,60,551,27686.0,25978,Ev Sahibi,Serbest,Arac,Orta,0,Riskli
+M00568,65,31423.0,30.8,68074,24,469,18270.0,27455,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00569,62,43846.0,37.3,72753,36,561,0.0,17468,Ev Sahibi,Tam Zamanli,Arac,Iyi,1,Riskli
+M00570,59,50918.0,25.8,77567,36,392,58790.0,15135,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Riskli
+M00571,34,50784.0,7.2,66513,36,187,42657.0,27818,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00572,51,52595.0,21.3,76441,36,391,39598.0,8319,Kira,Serbest,Arac,Iyi,0,Risksiz
+M00573,25,74047.0,1.9,117344,36,52,32977.0,21509,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00574,55,53164.0,29.2,99563,24,329,5124.0,7040,Aile Yaninda,Tam Zamanli,Egitim,Iyi,1,Riskli
+M00575,43,40605.0,13.8,96075,48,277,21295.0,26523,Kira,Issiz,Isletme,Kotu,1,Riskli
+M00576,49,62354.0,16.5,56334,24,204,45152.0,15936,Kira,Tam Zamanli,Egitim,Orta,0,Risksiz
+M00577,63,66410.0,28.0,43323,36,400,11078.0,28149,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00578,31,22903.0,7.4,98659,36,134,0.0,21931,Kira,Tam Zamanli,Egitim,Orta,0,Riskli
+M00579,38,55753.0,6.2,96281,60,279,25912.0,8214,Aile Yaninda,Serbest,Arac,Iyi,1,Riskli
+M00580,32,57621.0,8.5,114180,48,137,27448.0,29397,Kira,Serbest,Arac,Kotu,0,Riskli
+M00581,29,39644.0,4.0,51881,48,138,32440.0,30410,Kira,Serbest,Egitim,Iyi,0,Risksiz
+M00582,30,69763.0,7.3,63114,24,113,43113.0,25058,Kira,Yari Zamanli,Tuketici,Iyi,0,Risksiz
+M00583,64,42299.0,34.9,20815,36,569,41477.0,11907,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00584,37,47260.0,13.3,58226,24,205,34658.0,15552,Kira,Serbest,Tuketici,Iyi,0,Riskli
+M00585,58,41885.0,24.0,99897,36,524,51520.0,19163,Ev Sahibi,Serbest,Arac,Iyi,1,Riskli
+M00586,27,45280.0,4.3,56005,36,84,2659.0,12370,Aile Yaninda,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00587,33,25267.0,5.0,89214,12,163,39082.0,31539,Aile Yaninda,Tam Zamanli,Ev,Orta,0,Riskli
+M00588,60,19079.0,30.6,64285,36,464,41278.0,19155,Kira,Issiz,Tuketici,Iyi,1,Riskli
+M00589,62,73701.0,19.4,79722,72,411,7688.0,5000,Kira,Serbest,Isletme,Kotu,1,Riskli
+M00590,29,29755.0,5.4,35569,72,79,2948.0,20715,Ev Sahibi,Serbest,Arac,Iyi,0,Risksiz
+M00591,47,27155.0,12.7,72556,36,196,16573.0,15215,Aile Yaninda,Serbest,Ev,Orta,0,Riskli
+M00592,22,15000.0,0.8,5000,12,25,18092.0,17401,Aile Yaninda,Tam Zamanli,Ev,Kotu,0,Riskli
+M00593,25,33499.0,3.4,64393,24,91,43562.0,15051,Kira,Yari Zamanli,Tuketici,Orta,1,Riskli
+M00594,49,21184.0,9.6,21086,36,245,18938.0,24456,Ev Sahibi,Tam Zamanli,Tatil,Kotu,0,Riskli
+M00595,57,74556.0,27.7,106180,72,300,14586.0,26958,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00596,58,63177.0,18.6,93322,24,476,18991.0,20264,Kira,Serbest,Arac,Iyi,1,Risksiz
+M00597,39,32613.0,5.7,84000,60,180,50135.0,15286,Kira,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00598,28,85544.0,4.9,115630,24,100,30235.0,17669,Kira,Yari Zamanli,Tuketici,Iyi,0,Risksiz
+M00599,65,62672.0,14.8,41533,72,343,26773.0,18157,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00600,21,39153.0,0.5,122421,36,41,28020.0,11581,Kira,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00601,42,15000.0,15.9,97966,60,308,53257.0,22631,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Riskli
+M00602,37,86237.0,5.7,62903,36,245,16515.0,21680,Kira,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00603,27,19988.0,5.6,104069,48,83,53679.0,30324,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00604,45,15383.0,7.6,36811,24,327,33789.0,28043,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00605,65,63406.0,20.2,45265,24,336,27112.0,12515,Kira,Issiz,Tuketici,Kotu,0,Riskli
+M00606,24,88916.0,3.0,51742,60,36,75016.0,24562,Kira,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00607,56,69917.0,17.6,54131,60,234,10998.0,10392,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00608,26,55150.0,2.2,38303,60,86,23634.0,23567,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00609,51,55706.0,16.0,106692,48,318,7816.0,13867,Kira,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00610,39,60361.0,8.8,62234,60,213,47144.0,9814,Ev Sahibi,Tam Zamanli,Arac,Kotu,2,Riskli
+M00611,64,58661.0,35.4,80575,12,279,60405.0,20240,Kira,Serbest,Ev,Orta,0,Riskli
+M00612,59,50061.0,19.0,52889,36,385,60059.0,5000,Ev Sahibi,Serbest,Arac,Kotu,1,Risksiz
+M00613,47,46876.0,20.9,15382,36,341,52031.0,5000,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00614,30,43873.0,8.4,78102,48,114,26443.0,16580,Kira,Tam Zamanli,Ev,Kotu,1,Riskli
+M00615,46,31429.0,14.6,12632,36,332,23426.0,18660,Kira,Issiz,Arac,Iyi,0,Riskli
+M00616,39,39948.0,16.1,67941,24,165,0.0,15045,Kira,Serbest,Arac,Iyi,1,Riskli
+M00617,59,15000.0,20.5,28951,48,513,66646.0,5365,Ev Sahibi,Yari Zamanli,Isletme,Iyi,0,Riskli
+M00618,23,43230.0,2.6,129618,60,54,38442.0,11457,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00619,65,27205.0,15.9,97341,36,361,21145.0,21130,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00620,33,25135.0,9.3,73173,24,118,53905.0,22654,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00621,48,48238.0,16.7,107911,24,331,12490.0,17870,Aile Yaninda,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00622,40,70056.0,10.7,44611,24,278,37319.0,27255,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00623,48,61530.0,19.0,86304,36,280,26893.0,21179,Ev Sahibi,Tam Zamanli,Isletme,Iyi,1,Risksiz
+M00624,28,16731.0,5.8,75994,48,81,41496.0,12020,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00625,61,27187.0,12.4,77921,48,556,28856.0,15756,Aile Yaninda,Serbest,Tuketici,Orta,0,Riskli
+M00626,59,61934.0,15.6,108171,48,466,3883.0,6777,Ev Sahibi,Serbest,Arac,Orta,0,Riskli
+M00627,21,27315.0,0.7,91975,36,29,31360.0,17135,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00628,23,40957.0,2.1,78662,60,50,48880.0,26897,Ev Sahibi,Serbest,Tuketici,Orta,2,Riskli
+M00629,33,54901.0,11.4,20353,24,115,29474.0,23482,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00630,48,27570.0,,41199,36,330,43952.0,29216,Ev Sahibi,Serbest,Egitim,Orta,0,Risksiz
+M00631,45,46897.0,21.8,66319,60,239,11180.0,15577,Ev Sahibi,Tam Zamanli,Arac,Kotu,0,Riskli
+M00632,53,20988.0,23.8,72801,24,489,29527.0,28769,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00633,58,34175.0,18.2,36094,24,394,18759.0,16454,Ev Sahibi,Yari Zamanli,Isletme,Kotu,1,Riskli
+M00634,26,50756.0,2.2,142350,60,79,43446.0,29773,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00635,64,16326.0,33.8,115492,36,484,30567.0,17825,Kira,Serbest,Tuketici,,0,Riskli
+M00636,65,52929.0,30.9,88064,48,627,42421.0,23658,Kira,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00637,52,44647.0,10.5,72161,12,422,49579.0,29801,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00638,65,54945.0,23.2,63634,48,452,42449.0,16453,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00639,41,49030.0,18.4,41442,36,270,34916.0,19747,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00640,36,69555.0,9.6,72324,12,192,12032.0,28311,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00641,41,47254.0,11.8,77733,48,229,29950.0,16936,Kira,Yari Zamanli,Arac,Orta,0,Riskli
+M00642,31,37271.0,6.3,32747,24,98,20404.0,7433,Kira,Serbest,Tatil,Orta,0,Risksiz
+M00643,57,47201.0,15.7,80025,36,379,23807.0,35144,Kira,Serbest,Arac,Kotu,0,Risksiz
+M00644,56,54779.0,18.8,65342,24,303,23258.0,14242,Kira,Issiz,Egitim,Iyi,1,Risksiz
+M00645,55,45879.0,18.3,12766,24,493,12361.0,19270,Kira,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00646,39,45731.0,6.3,44188,36,182,0.0,27248,Kira,Yari Zamanli,Tuketici,Iyi,0,Risksiz
+M00647,40,,15.2,57592,24,300,17973.0,13132,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00648,38,33068.0,9.9,126631,60,205,33481.0,9937,Ev Sahibi,Yari Zamanli,Arac,Kotu,0,Riskli
+M00649,61,19753.0,32.5,86697,12,475,5733.0,20030,Kira,Tam Zamanli,Ev,Orta,0,Riskli
+M00650,34,76492.0,11.3,29936,36,165,30282.0,5000,Kira,Issiz,Tuketici,Iyi,0,Risksiz
+M00651,35,22610.0,6.4,84581,24,120,64205.0,15697,Kira,Yari Zamanli,Ev,Kotu,0,Riskli
+M00652,51,32528.0,21.5,23581,36,297,48415.0,19960,Ev Sahibi,Issiz,Tuketici,Orta,0,Risksiz
+M00653,21,32069.0,0.6,102481,60,20,59584.0,15840,Kira,Serbest,Ev,Iyi,0,Riskli
+M00654,23,61109.0,2.5,55866,24,55,37040.0,5652,Kira,Serbest,Arac,Orta,1,Riskli
+M00655,36,39691.0,6.9,67191,72,172,51015.0,30753,Ev Sahibi,Serbest,Isletme,Iyi,0,Risksiz
+M00656,43,67459.0,16.3,109774,24,306,16969.0,18828,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00657,31,32877.0,7.3,31385,48,101,18402.0,29449,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00658,32,50022.0,5.7,28086,36,102,0.0,15920,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00659,30,29964.0,3.8,52492,60,111,51351.0,10960,Ev Sahibi,Tam Zamanli,Isletme,Iyi,2,Riskli
+M00660,52,83613.0,22.1,101151,36,456,57726.0,20153,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00661,36,23623.0,11.9,24420,36,210,20043.0,16274,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00662,28,50577.0,3.9,5000,24,94,25429.0,8578,Kira,Tam Zamanli,Ev,Orta,0,Riskli
+M00663,58,56408.0,26.1,56465,24,406,16430.0,29758,Ev Sahibi,Issiz,Tuketici,Kotu,0,Riskli
+M00664,32,52448.0,6.4,86552,60,93,36888.0,13022,Ev Sahibi,Serbest,Arac,Orta,1,Riskli
+M00665,44,41665.0,17.5,106008,36,361,50249.0,5000,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00666,48,42663.0,11.7,56105,36,340,0.0,28625,Aile Yaninda,Tam Zamanli,Ev,Iyi,0,Riskli
+M00667,28,45789.0,6.7,57657,48,83,37370.0,13966,Aile Yaninda,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00668,48,42354.0,13.2,104617,36,321,25020.0,13137,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00669,56,62350.0,18.7,13908,72,261,32041.0,5000,Ev Sahibi,Serbest,Arac,Iyi,0,Risksiz
+M00670,46,84789.0,8.7,58344,48,384,38262.0,31928,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00671,28,34965.0,2.9,75713,48,74,26612.0,7684,Kira,Tam Zamanli,Ev,Orta,0,Riskli
+M00672,48,20344.0,17.1,83477,60,336,28135.0,18468,Ev Sahibi,Serbest,Arac,Orta,0,Riskli
+M00673,48,43411.0,12.9,54706,12,239,26150.0,25301,Aile Yaninda,Serbest,Isletme,Iyi,0,Riskli
+M00674,57,91435.0,29.6,71033,24,458,47466.0,21374,Kira,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00675,61,30534.0,12.7,5000,36,525,,17523,Aile Yaninda,Yari Zamanli,Tuketici,Orta,0,Risksiz
+M00676,56,74504.0,19.0,50253,24,433,33971.0,5000,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00677,47,75199.0,13.6,83605,48,317,7123.0,11522,Aile Yaninda,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00678,37,35035.0,5.3,40531,60,250,23186.0,19502,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00679,29,55242.0,3.4,71770,36,73,46176.0,11703,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00680,53,74311.0,18.1,83406,36,303,30679.0,19627,Kira,Tam Zamanli,Tuketici,,0,Risksiz
+M00681,40,38176.0,11.9,59724,72,176,41872.0,23454,Kira,Tam Zamanli,Tatil,Orta,0,Risksiz
+M00682,33,41336.0,7.1,75114,36,209,61797.0,25700,Kira,Yari Zamanli,Arac,Orta,0,Riskli
+M00683,48,34530.0,17.3,41118,36,273,48695.0,8191,Ev Sahibi,Serbest,Tatil,Iyi,1,Risksiz
+M00684,49,26734.0,19.1,63802,36,368,31677.0,35573,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00685,33,33313.0,4.0,88306,60,172,20802.0,24140,Aile Yaninda,Tam Zamanli,Ev,Orta,0,Riskli
+M00686,55,22969.0,20.2,74709,48,285,0.0,17986,Ev Sahibi,Serbest,Arac,Iyi,0,Riskli
+M00687,26,45614.0,5.3,52404,60,63,26969.0,26716,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00688,38,31140.0,11.0,76726,60,165,24132.0,36923,Kira,Issiz,Arac,Iyi,0,Riskli
+M00689,25,49208.0,3.5,91438,36,65,37027.0,6490,Kira,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00690,45,16994.0,12.2,8502,36,213,27230.0,16198,Kira,Tam Zamanli,Egitim,Orta,0,Riskli
+M00691,22,50956.0,1.5,104772,60,25,24233.0,5000,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00692,30,60004.0,7.6,59912,36,156,0.0,19541,Kira,Tam Zamanli,Arac,Iyi,1,Riskli
+M00693,50,,18.4,82765,60,439,13081.0,20923,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00694,65,51733.0,39.9,105917,72,410,38580.0,17687,Kira,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00695,25,67098.0,1.9,28850,48,61,60886.0,12764,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00696,53,23226.0,10.2,48717,48,212,28245.0,5000,Kira,Tam Zamanli,Tatil,Kotu,0,Riskli
+M00697,21,75106.0,0.8,61344,60,34,35901.0,20988,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Riskli
+M00698,38,52542.0,14.1,46487,60,252,47145.0,29643,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00699,52,32310.0,11.9,122048,36,244,15404.0,13272,Aile Yaninda,Tam Zamanli,Arac,Orta,1,Riskli
+M00700,31,43996.0,,44297,12,95,36603.0,21520,Kira,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00701,41,55050.0,6.5,53334,36,283,16671.0,5455,Ev Sahibi,Tam Zamanli,Arac,Orta,1,Riskli
+M00702,46,46368.0,12.4,76132,48,306,45567.0,21658,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00703,45,54698.0,19.1,33936,36,172,32725.0,14853,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,2,Riskli
+M00704,42,28428.0,13.4,58130,48,264,35372.0,11901,Aile Yaninda,Tam Zamanli,Arac,Orta,0,Risksiz
+M00705,47,48048.0,13.7,79524,36,246,15913.0,11917,Kira,Serbest,Tatil,Iyi,1,Riskli
+M00706,33,19553.0,6.8,60014,48,134,42727.0,14851,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00707,53,42998.0,9.9,67198,24,426,67525.0,21059,Kira,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00708,54,28730.0,16.3,54120,48,450,11858.0,7503,Ev Sahibi,Tam Zamanli,Ev,Kotu,1,Riskli
+M00709,61,31760.0,28.2,24566,36,396,23884.0,14823,Kira,Yari Zamanli,Arac,Iyi,0,Risksiz
+M00710,55,67250.0,31.0,79648,24,502,34169.0,17668,Kira,Tam Zamanli,Arac,Kotu,0,Risksiz
+M00711,21,64644.0,0.8,122648,36,28,44155.0,9208,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00712,41,55964.0,6.6,70552,48,280,19928.0,32373,Ev Sahibi,Tam Zamanli,Tatil,Kotu,0,Riskli
+M00713,26,25338.0,5.0,76758,36,79,0.0,11172,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00714,48,39305.0,21.6,90782,24,395,54465.0,12645,Ev Sahibi,Tam Zamanli,Arac,Iyi,1,Riskli
+M00715,37,66836.0,13.1,31920,72,252,43689.0,10174,Ev Sahibi,Yari Zamanli,Tuketici,Orta,0,Risksiz
+M00716,25,47551.0,2.9,121075,48,47,0.0,32388,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00717,51,86748.0,16.7,76070,72,445,19064.0,22423,Kira,Yari Zamanli,Arac,Iyi,1,Riskli
+M00718,25,,2.4,118956,36,88,58227.0,10507,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Riskli
+M00719,58,48457.0,12.9,48009,36,493,56060.0,26850,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,0,Risksiz
+M00720,23,39436.0,1.3,124542,60,38,46896.0,19606,Kira,Yari Zamanli,Tuketici,Orta,0,Riskli
+M00721,43,47404.0,10.3,93255,36,311,26830.0,20058,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00722,57,42256.0,21.8,86591,48,499,31494.0,15244,Ev Sahibi,Yari Zamanli,Ev,Orta,0,Riskli
+M00723,57,57746.0,27.7,77021,24,324,27643.0,12005,Aile Yaninda,Serbest,Arac,Orta,0,Riskli
+M00724,30,62221.0,5.8,62544,36,163,50308.0,20702,Ev Sahibi,Tam Zamanli,Ev,Iyi,1,Riskli
+M00725,30,30852.0,3.3,106016,24,77,14235.0,13639,Kira,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00726,39,21038.0,16.6,74211,24,151,15496.0,32534,Kira,Serbest,Tuketici,Orta,0,Riskli
+M00727,37,15000.0,14.7,10988,12,196,48185.0,7846,Aile Yaninda,Tam Zamanli,Ev,Iyi,1,Riskli
+M00728,41,54144.0,16.2,36484,12,244,29201.0,30289,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00729,34,25139.0,12.5,64425,72,179,54812.0,17109,Aile Yaninda,Serbest,Tatil,Orta,0,Riskli
+M00730,29,15000.0,5.6,79300,24,67,17913.0,20393,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00731,21,51994.0,0.9,68302,48,41,29014.0,24665,Kira,Serbest,Isletme,Iyi,1,Riskli
+M00732,65,89874.0,15.5,106569,60,299,13397.0,12958,Aile Yaninda,Serbest,Ev,Orta,0,Risksiz
+M00733,33,44891.0,6.8,11467,36,107,,24914,Kira,Issiz,Isletme,Iyi,0,Risksiz
+M00734,24,60093.0,1.7,74308,24,37,3386.0,5000,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00735,21,,0.4,15461,48,32,21223.0,12240,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00736,60,43220.0,15.4,92791,48,565,4147.0,10607,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00737,52,61543.0,21.6,67166,48,385,,7972,Ev Sahibi,Tam Zamanli,Isletme,Orta,3,Riskli
+M00738,54,39775.0,26.1,82588,60,453,42899.0,16280,Ev Sahibi,Tam Zamanli,Egitim,Orta,0,Riskli
+M00739,48,49813.0,18.1,44084,72,183,0.0,21086,Kira,Tam Zamanli,Tatil,Iyi,0,Risksiz
+M00740,51,50791.0,12.0,108384,48,341,54010.0,23621,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00741,28,32974.0,6.3,101252,36,97,74953.0,19927,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00742,59,62857.0,26.6,87506,48,410,30828.0,12674,Kira,Tam Zamanli,Ev,Iyi,1,Risksiz
+M00743,46,41851.0,13.9,66114,12,184,18460.0,20952,Kira,Yari Zamanli,Tuketici,Kotu,0,Riskli
+M00744,54,31397.0,24.0,87396,60,413,80838.0,18994,Kira,Serbest,Egitim,Iyi,0,Riskli
+M00745,23,54657.0,1.4,48793,24,50,6259.0,25488,Kira,Serbest,Egitim,Iyi,1,Riskli
+M00746,32,28828.0,6.1,95667,36,170,30362.0,24215,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00747,21,45507.0,0.9,119484,60,30,33233.0,18244,Kira,Issiz,Egitim,Orta,1,Riskli
+M00748,64,44836.0,20.9,102118,48,331,54213.0,10822,Kira,Serbest,Isletme,Orta,0,Riskli
+M00749,25,64546.0,2.9,48112,36,78,36475.0,12776,Kira,Tam Zamanli,Tatil,Orta,0,Riskli
+M00750,50,53545.0,25.0,80843,36,236,21025.0,13602,Aile Yaninda,Tam Zamanli,Isletme,Kotu,0,Riskli
+M00751,50,44550.0,21.7,31206,60,415,12879.0,15478,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00752,37,59720.0,5.7,87172,36,207,23847.0,20144,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00753,43,70024.0,8.9,83518,60,181,11875.0,23721,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00754,35,55041.0,4.6,13906,24,233,30861.0,17591,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00755,57,45186.0,25.1,35146,60,396,19844.0,18129,Ev Sahibi,Serbest,Tatil,Orta,0,Riskli
+M00756,41,21387.0,11.9,61506,60,151,3107.0,19146,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00757,34,25828.0,,60974,24,176,52593.0,13873,Kira,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00758,22,39506.0,1.7,33716,36,32,21042.0,10597,Ev Sahibi,Serbest,Tuketici,,0,Risksiz
+M00759,31,34029.0,6.8,81669,24,162,7174.0,5000,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Riskli
+M00760,59,41635.0,17.4,77544,48,514,26971.0,12439,Ev Sahibi,Issiz,Tuketici,Orta,0,Riskli
+M00761,58,,22.8,64172,36,553,31231.0,21785,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Risksiz
+M00762,54,54534.0,24.1,47326,48,361,0.0,12377,Kira,Issiz,Arac,Iyi,0,Riskli
+M00763,58,43731.0,13.1,101461,24,386,35970.0,16098,Ev Sahibi,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00764,54,,15.8,119662,24,433,11151.0,21731,Ev Sahibi,Tam Zamanli,Egitim,Kotu,0,Risksiz
+M00765,38,46161.0,14.1,55493,12,141,60799.0,22166,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00766,50,15000.0,17.3,51635,36,332,39431.0,9364,Kira,Yari Zamanli,Arac,Orta,0,Riskli
+M00767,35,28092.0,9.4,84736,36,176,22802.0,25976,Ev Sahibi,Serbest,Ev,Orta,0,Riskli
+M00768,47,42406.0,15.1,59259,60,195,16587.0,27019,Aile Yaninda,Tam Zamanli,Egitim,Iyi,1,Risksiz
+M00769,54,23225.0,11.1,65818,48,336,28111.0,8961,Ev Sahibi,Issiz,Ev,Orta,0,Risksiz
+M00770,58,55799.0,15.2,92190,36,513,41030.0,11409,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00771,53,72554.0,18.7,12719,72,450,29541.0,27529,Kira,Yari Zamanli,Arac,Kotu,0,Riskli
+M00772,44,66938.0,10.2,109549,48,177,26091.0,16825,Kira,Serbest,Egitim,Orta,0,Riskli
+M00773,35,41158.0,4.9,72180,60,114,31051.0,5000,Kira,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00774,50,71833.0,24.2,57655,36,259,19131.0,6803,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00775,62,47676.0,37.3,67323,24,572,23822.0,16005,Kira,Serbest,Tuketici,Orta,1,Risksiz
+M00776,37,38932.0,13.2,68873,12,134,0.0,8696,Kira,Serbest,Ev,Iyi,1,Risksiz
+M00777,25,33959.0,4.1,18064,48,82,47527.0,14693,Ev Sahibi,Issiz,Tuketici,Iyi,1,Riskli
+M00778,49,39556.0,12.9,114848,24,211,35378.0,18259,Ev Sahibi,Serbest,Isletme,Iyi,0,Riskli
+M00779,24,38013.0,3.5,71240,36,66,16078.0,29698,Kira,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00780,30,48067.0,4.2,83290,36,106,64177.0,15676,Kira,Serbest,Tuketici,Iyi,1,Riskli
+M00781,37,47890.0,14.8,98546,48,234,31566.0,26580,Kira,Tam Zamanli,Ev,Orta,0,Riskli
+M00782,30,45055.0,9.0,39365,48,94,11349.0,29430,Ev Sahibi,Issiz,Arac,Kotu,0,Riskli
+M00783,37,52865.0,12.4,84204,24,211,45421.0,29474,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00784,40,66432.0,17.8,61971,36,173,37165.0,20278,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00785,44,62092.0,15.4,95403,48,304,37102.0,5000,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00786,25,18272.0,2.3,6183,72,91,22336.0,21687,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00787,54,15000.0,19.1,67027,48,253,38109.0,26387,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00788,26,61818.0,3.9,51915,60,103,25288.0,17351,Kira,Serbest,Ev,Orta,0,Risksiz
+M00789,22,20396.0,0.7,82968,60,43,40007.0,31957,Kira,Serbest,Tuketici,Kotu,0,Riskli
+M00790,33,40954.0,8.8,84101,48,105,0.0,24879,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00791,63,23938.0,38.2,48771,24,424,22190.0,22546,Ev Sahibi,Serbest,Egitim,Kotu,0,Risksiz
+M00792,63,15000.0,17.8,48635,48,328,60999.0,26691,Kira,Yari Zamanli,Tuketici,Orta,0,Riskli
+M00793,31,54746.0,8.5,66680,48,151,16193.0,20667,Ev Sahibi,Tam Zamanli,Arac,Iyi,1,Risksiz
+M00794,43,58665.0,19.4,43101,48,302,19131.0,5000,Kira,Tam Zamanli,Arac,Iyi,1,Risksiz
+M00795,36,34623.0,13.9,95260,36,123,,14007,Kira,Serbest,Tuketici,Iyi,1,Riskli
+M00796,51,15000.0,27.2,58924,36,332,8133.0,27577,Kira,Yari Zamanli,Tuketici,Iyi,1,Riskli
+M00797,31,35168.0,6.7,5000,36,163,0.0,11539,Ev Sahibi,Tam Zamanli,Egitim,,1,Risksiz
+M00798,36,52052.0,14.2,58755,36,243,25849.0,16212,Kira,Tam Zamanli,Ev,Iyi,1,Riskli
+M00799,28,18380.0,6.0,38844,24,101,32445.0,9641,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00800,24,48300.0,1.6,21062,60,82,29055.0,32271,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00801,60,44724.0,23.4,32877,24,432,27392.0,31452,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00802,24,55427.0,2.9,73282,24,55,30775.0,10929,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00803,45,47152.0,11.2,109859,36,345,48411.0,19178,Kira,Yari Zamanli,Isletme,Iyi,1,Riskli
+M00804,23,27485.0,2.1,79396,48,50,26572.0,12556,Kira,Serbest,Tuketici,Iyi,0,Riskli
+M00805,52,66538.0,22.4,51805,36,332,19667.0,22920,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00806,23,42146.0,1.2,83677,36,50,24940.0,22077,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00807,47,44509.0,17.3,56227,36,370,40428.0,24494,Ev Sahibi,Yari Zamanli,Arac,Orta,0,Risksiz
+M00808,49,28201.0,22.1,49162,36,392,55416.0,20655,Ev Sahibi,Serbest,Ev,Kotu,0,Riskli
+M00809,52,37021.0,19.2,35369,60,314,18693.0,41483,Kira,Serbest,Ev,Kotu,0,Riskli
+M00810,39,29074.0,5.8,17445,60,182,31781.0,9777,Ev Sahibi,Serbest,Arac,Kotu,0,Riskli
+M00811,41,41887.0,6.4,58302,36,229,36090.0,5000,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00812,25,75811.0,2.6,74742,36,74,12134.0,14855,Kira,Serbest,Arac,Iyi,0,Riskli
+M00813,38,20306.0,15.4,67101,48,158,30368.0,5456,Aile Yaninda,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00814,48,15956.0,12.2,57521,12,371,3618.0,6060,Kira,Tam Zamanli,Isletme,Iyi,1,Riskli
+M00815,62,71481.0,28.6,41628,36,435,0.0,9989,Aile Yaninda,Tam Zamanli,Ev,Kotu,0,Risksiz
+M00816,42,41232.0,9.5,88247,36,208,36601.0,10622,Aile Yaninda,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00817,41,32957.0,10.4,30486,60,158,23090.0,10363,Ev Sahibi,Issiz,Arac,Iyi,0,Riskli
+M00818,26,63718.0,4.9,93281,12,63,33641.0,22146,Aile Yaninda,Serbest,Ev,Iyi,0,Risksiz
+M00819,21,34099.0,0.7,39933,36,41,29678.0,13950,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00820,25,77868.0,1.8,47427,48,59,12425.0,16564,Kira,Tam Zamanli,Ev,Orta,0,Risksiz
+M00821,61,57203.0,22.8,25996,36,316,29185.0,25154,Kira,Tam Zamanli,Tatil,Orta,0,Risksiz
+M00822,32,36218.0,3.8,54958,24,136,7804.0,11869,Kira,Tam Zamanli,Arac,Orta,0,Riskli
+M00823,46,83832.0,,99259,72,237,55038.0,15884,Kira,Tam Zamanli,Ev,,0,Riskli
+M00824,54,34097.0,23.7,85469,36,226,5593.0,20926,Ev Sahibi,Serbest,Ev,Iyi,1,Riskli
+M00825,34,58358.0,5.2,99353,48,137,26476.0,5000,Kira,Issiz,Ev,Iyi,0,Risksiz
+M00826,46,50387.0,12.3,85664,24,290,11239.0,5000,Kira,Yari Zamanli,Ev,Iyi,2,Risksiz
+M00827,65,68431.0,24.2,36890,36,489,40268.0,20769,Ev Sahibi,Serbest,Tuketici,Iyi,0,Risksiz
+M00828,47,73107.0,23.0,60076,36,257,24034.0,21936,Aile Yaninda,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00829,29,45576.0,8.1,46594,12,105,20664.0,34514,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00830,46,31438.0,8.5,109917,24,384,45358.0,19265,Kira,Tam Zamanli,Arac,Orta,0,Risksiz
+M00831,42,53279.0,16.6,34096,60,216,30530.0,24558,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00832,50,32801.0,15.7,96811,24,258,39300.0,16436,Ev Sahibi,Serbest,Isletme,,0,Risksiz
+M00833,63,81241.0,23.0,96789,24,358,12336.0,20378,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00834,37,47458.0,12.8,124889,36,184,4713.0,31338,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00835,46,38424.0,22.1,57709,60,338,31930.0,5000,Kira,Tam Zamanli,Arac,,0,Riskli
+M00836,56,48324.0,31.3,91370,12,291,24261.0,21309,Kira,Issiz,Arac,Iyi,0,Risksiz
+M00837,21,20752.0,0.6,138450,48,35,41276.0,35085,Aile Yaninda,Tam Zamanli,Tatil,Orta,0,Riskli
+M00838,28,27511.0,4.1,51471,24,62,28562.0,20256,Kira,Serbest,Tuketici,Orta,0,Riskli
+M00839,55,66607.0,27.0,23949,12,346,33691.0,31205,Kira,Serbest,Egitim,Iyi,0,Risksiz
+M00840,35,33176.0,6.8,13600,12,208,779.0,12966,Kira,Tam Zamanli,Arac,Orta,1,Riskli
+M00841,42,26156.0,14.0,91381,60,209,63992.0,17744,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00842,34,54660.0,7.2,13505,24,168,27044.0,18268,Ev Sahibi,Serbest,Tuketici,Orta,1,Riskli
+M00843,46,66343.0,18.0,58830,12,214,42557.0,5000,Kira,Tam Zamanli,Egitim,Orta,1,Risksiz
+M00844,48,57941.0,12.4,83119,36,358,14950.0,8655,Kira,Issiz,Tuketici,Kotu,0,Risksiz
+M00845,43,62929.0,9.5,75555,60,160,35544.0,9225,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00846,34,31378.0,11.9,82763,36,205,6549.0,24577,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00847,44,19407.0,8.7,76669,36,197,38137.0,24977,Ev Sahibi,Serbest,Arac,Iyi,0,Riskli
+M00848,22,72024.0,1.2,108366,12,52,23592.0,20592,Ev Sahibi,Serbest,Arac,Iyi,1,Riskli
+M00849,65,39192.0,19.5,41431,36,415,30525.0,24593,Ev Sahibi,Issiz,Ev,Orta,0,Riskli
+M00850,46,40485.0,8.4,49690,48,330,42564.0,16687,Kira,Yari Zamanli,Tuketici,Kotu,1,Riskli
+M00851,34,,4.5,46820,48,137,7814.0,27615,Kira,Issiz,Arac,Iyi,0,Risksiz
+M00852,27,55012.0,2.8,94906,36,119,17679.0,18070,Kira,Serbest,Tatil,Iyi,0,Riskli
+M00853,23,53206.0,,97012,36,35,38232.0,18463,Kira,Serbest,Ev,Iyi,1,Risksiz
+M00854,43,83970.0,10.8,83537,24,186,67768.0,15875,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00855,63,33417.0,37.4,105505,36,447,27515.0,23476,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00856,65,61701.0,29.2,34659,24,313,40640.0,14630,Ev Sahibi,Issiz,Tatil,Iyi,0,Riskli
+M00857,38,46026.0,10.1,120017,60,151,28075.0,25811,Aile Yaninda,Tam Zamanli,Isletme,Orta,0,Riskli
+M00858,58,49835.0,24.6,115697,72,542,64960.0,8943,Kira,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00859,55,72512.0,21.4,92069,72,511,0.0,9209,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00860,35,54141.0,11.3,123454,60,153,31703.0,23499,Ev Sahibi,Tam Zamanli,Arac,Orta,1,Riskli
+M00861,45,54689.0,11.7,20301,48,361,740.0,17292,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00862,57,64305.0,18.9,54267,48,404,0.0,14369,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00863,48,38431.0,23.4,47941,36,245,35354.0,25120,Kira,Serbest,Tuketici,Orta,0,Risksiz
+M00864,30,29894.0,8.7,91644,48,139,32511.0,13142,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00865,59,26193.0,32.6,38496,36,462,24873.0,16398,Kira,Tam Zamanli,Tuketici,Iyi,1,Risksiz
+M00866,37,15000.0,9.4,92725,36,264,28089.0,29194,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00867,59,82012.0,30.0,111116,48,333,85769.0,30313,Kira,Tam Zamanli,Tatil,Orta,0,Risksiz
+M00868,42,25142.0,12.9,90856,36,273,25353.0,30579,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00869,46,41017.0,15.6,78513,36,180,39182.0,15743,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00870,64,40017.0,18.6,40364,60,318,18311.0,27846,Ev Sahibi,Tam Zamanli,Ev,Iyi,1,Riskli
+M00871,45,50533.0,16.4,44594,12,163,35314.0,10408,Kira,Serbest,Arac,Iyi,1,Riskli
+M00872,37,59683.0,7.0,107489,36,266,25712.0,10745,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00873,33,60489.0,6.5,93380,60,186,22611.0,5000,Kira,Tam Zamanli,Arac,Orta,0,Risksiz
+M00874,40,34505.0,16.3,68829,48,270,62740.0,31383,Kira,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00875,45,41992.0,10.6,57463,36,272,51189.0,11088,Kira,Tam Zamanli,Ev,Iyi,1,Riskli
+M00876,24,50086.0,1.4,9226,24,50,32461.0,16988,Ev Sahibi,Serbest,Arac,Orta,0,Riskli
+M00877,30,40524.0,3.4,37874,36,87,0.0,10717,Aile Yaninda,Serbest,Arac,Iyi,1,Riskli
+M00878,23,73932.0,2.6,127343,60,41,23502.0,23561,Kira,Tam Zamanli,Tatil,Orta,1,Riskli
+M00879,61,53838.0,24.8,31586,36,387,78654.0,14995,Ev Sahibi,Tam Zamanli,Egitim,Orta,0,Risksiz
+M00880,65,58228.0,,75684,36,566,25848.0,7561,Kira,Tam Zamanli,Arac,Iyi,1,Riskli
+M00881,38,56932.0,14.2,100223,24,206,49858.0,21533,Ev Sahibi,Tam Zamanli,Ev,Orta,1,Risksiz
+M00882,56,66123.0,28.9,32352,12,252,55955.0,6530,Kira,Issiz,Arac,Orta,1,Risksiz
+M00883,42,48258.0,11.0,75541,72,147,33941.0,11301,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00884,54,21657.0,24.3,98137,36,245,14847.0,5000,Ev Sahibi,Yari Zamanli,Arac,Iyi,1,Riskli
+M00885,28,52194.0,6.1,70375,48,93,0.0,6608,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Risksiz
+M00886,60,33276.0,27.7,156052,12,566,42315.0,19428,Kira,Tam Zamanli,Egitim,Kotu,1,Riskli
+M00887,64,35485.0,17.2,19942,48,511,15334.0,5000,Kira,Tam Zamanli,Ev,Orta,1,Risksiz
+M00888,39,55555.0,15.7,101762,60,261,33171.0,6151,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00889,62,67289.0,26.2,64816,48,428,7503.0,17981,Kira,Serbest,Arac,Orta,0,Risksiz
+M00890,61,45383.0,19.2,93158,24,382,25226.0,13651,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00891,57,50559.0,20.5,83239,48,268,30607.0,33936,Aile Yaninda,Yari Zamanli,Arac,Orta,0,Riskli
+M00892,26,75640.0,1.9,48005,60,104,34835.0,32671,Kira,Tam Zamanli,Tatil,,0,Risksiz
+M00893,46,49334.0,9.8,76870,36,343,9933.0,11057,Kira,Issiz,Tuketici,Iyi,0,Riskli
+M00894,54,91830.0,25.8,14263,60,264,51544.0,22457,Ev Sahibi,Tam Zamanli,Isletme,Orta,0,Risksiz
+M00895,65,55179.0,13.5,88097,48,475,19256.0,23994,Kira,Serbest,Arac,Orta,0,Riskli
+M00896,26,15000.0,3.3,78945,60,79,0.0,13220,Ev Sahibi,Serbest,Arac,Orta,1,Riskli
+M00897,57,58560.0,22.7,89160,48,429,28038.0,6036,Kira,Issiz,Egitim,Iyi,0,Risksiz
+M00898,53,51861.0,11.0,101744,24,475,30619.0,17902,Ev Sahibi,Tam Zamanli,Isletme,Orta,1,Risksiz
+M00899,42,68216.0,19.4,81029,36,255,32891.0,16617,Ev Sahibi,Yari Zamanli,Isletme,Kotu,1,Riskli
+M00900,41,57117.0,9.1,74443,24,237,54518.0,14514,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00901,26,42508.0,2.9,43568,60,51,,21539,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Riskli
+M00902,26,22963.0,2.9,48633,60,52,27847.0,11994,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00903,24,41238.0,1.8,105602,48,45,10143.0,8784,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Riskli
+M00904,50,29691.0,9.0,113090,36,200,44770.0,18873,Ev Sahibi,Issiz,Arac,Orta,1,Riskli
+M00905,31,34551.0,8.1,62857,24,155,33318.0,21088,Kira,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00906,50,55594.0,26.4,71380,48,377,22440.0,8587,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00907,51,75058.0,13.5,42862,36,234,0.0,25425,Kira,Yari Zamanli,Isletme,Iyi,0,Risksiz
+M00908,44,52104.0,16.7,105183,24,330,55999.0,5000,Kira,Tam Zamanli,Isletme,Orta,0,Riskli
+M00909,29,23474.0,6.7,89963,48,80,7902.0,13375,Kira,Yari Zamanli,Arac,Iyi,1,Riskli
+M00910,23,53003.0,2.4,128237,12,42,19357.0,15936,Ev Sahibi,Tam Zamanli,Tatil,Iyi,0,Riskli
+M00911,51,66539.0,17.2,43650,36,264,36450.0,12910,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00912,60,34024.0,19.3,58660,36,377,,13480,Ev Sahibi,Tam Zamanli,Ev,Iyi,2,Risksiz
+M00913,57,42588.0,18.3,76943,24,313,3117.0,32969,Kira,Issiz,Tuketici,Orta,1,Riskli
+M00914,56,45264.0,26.2,89395,72,377,0.0,11193,Kira,Serbest,Arac,Iyi,1,Riskli
+M00915,44,30872.0,19.0,63530,24,241,42978.0,37530,Ev Sahibi,Issiz,Arac,Iyi,0,Riskli
+M00916,51,56669.0,12.7,43811,24,458,20187.0,21497,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00917,26,42823.0,3.1,96442,24,52,82691.0,18736,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00918,22,52552.0,1.7,91634,60,29,12102.0,21810,Kira,Tam Zamanli,Tuketici,Orta,0,Risksiz
+M00919,40,29025.0,15.7,42512,36,141,13414.0,38239,Kira,Tam Zamanli,Arac,Orta,0,Riskli
+M00920,48,37126.0,24.9,110663,48,330,19823.0,10051,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Riskli
+M00921,31,58003.0,8.3,105106,12,84,34376.0,9037,Ev Sahibi,Yari Zamanli,Ev,Iyi,1,Riskli
+M00922,24,38289.0,2.1,74029,12,76,21536.0,11961,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00923,35,76085.0,9.8,72388,36,172,41022.0,18257,Ev Sahibi,Tam Zamanli,Egitim,Kotu,0,Riskli
+M00924,26,37807.0,4.2,86622,60,82,12385.0,5000,Ev Sahibi,Serbest,Tatil,Kotu,2,Riskli
+M00925,50,49044.0,10.4,44149,60,336,5131.0,18179,Kira,Yari Zamanli,Tatil,Orta,0,Risksiz
+M00926,58,61787.0,23.8,70901,24,295,0.0,31548,Aile Yaninda,Tam Zamanli,Arac,Kotu,0,Riskli
+M00927,22,19469.0,1.5,5428,36,30,0.0,19211,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Risksiz
+M00928,35,15000.0,6.0,96294,60,145,20675.0,15659,Kira,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00929,31,17538.0,8.5,23155,36,140,24582.0,13055,Kira,Tam Zamanli,Ev,Iyi,1,Riskli
+M00930,28,67727.0,5.2,115103,60,77,18634.0,25188,Kira,Yari Zamanli,Ev,Iyi,0,Riskli
+M00931,46,35067.0,22.7,60096,24,194,52381.0,11393,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00932,65,91048.0,14.6,63650,60,647,52105.0,32771,Ev Sahibi,Serbest,Arac,Iyi,0,Riskli
+M00933,64,34844.0,20.2,51168,48,284,23974.0,33467,Kira,Serbest,Arac,Orta,0,Riskli
+M00934,25,48322.0,3.3,61359,72,87,0.0,20054,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00935,26,72758.0,2.9,112556,48,98,19799.0,17908,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Risksiz
+M00936,46,81110.0,18.9,5000,36,235,19203.0,26245,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,1,Riskli
+M00937,24,82107.0,3.0,108309,60,43,18172.0,26758,Ev Sahibi,Serbest,Tuketici,Iyi,0,Risksiz
+M00938,39,66751.0,6.9,80141,36,150,17441.0,11552,Kira,Tam Zamanli,Tuketici,Orta,1,Riskli
+M00939,40,63433.0,12.2,33789,36,255,18238.0,13788,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00940,53,55665.0,20.0,37741,48,390,23042.0,7421,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Riskli
+M00941,40,59010.0,10.4,120292,60,270,18560.0,21273,Kira,Tam Zamanli,Arac,Orta,0,Riskli
+M00942,32,35079.0,10.3,41635,60,189,33750.0,23333,Kira,Serbest,Egitim,Orta,0,Riskli
+M00943,21,30272.0,0.8,35399,24,35,36487.0,7201,Ev Sahibi,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00944,46,44939.0,18.7,104119,60,203,13608.0,14358,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00945,34,41937.0,10.2,80157,48,127,52879.0,7222,Kira,Tam Zamanli,Tuketici,Kotu,0,Riskli
+M00946,58,36842.0,21.9,41862,12,510,12359.0,10810,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00947,57,57535.0,31.5,76499,36,299,880.0,22408,Ev Sahibi,Serbest,Ev,Iyi,1,Risksiz
+M00948,31,62195.0,7.9,39227,36,86,36854.0,12132,Kira,Serbest,Ev,Orta,1,Risksiz
+M00949,56,46591.0,26.5,103025,36,442,15287.0,15593,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00950,33,71596.0,10.6,101841,72,138,35783.0,5000,Aile Yaninda,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00951,63,24450.0,20.0,85960,48,601,0.0,19496,Kira,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00952,23,41514.0,2.4,80850,48,56,55064.0,17646,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00953,53,32097.0,13.8,122836,72,235,42101.0,12168,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00954,26,15000.0,3.0,69991,36,109,2991.0,16488,Ev Sahibi,Yari Zamanli,Arac,Iyi,0,Riskli
+M00955,30,43512.0,5.0,34544,60,97,3382.0,19442,Kira,Tam Zamanli,Arac,Orta,1,Risksiz
+M00956,25,42809.0,4.4,83484,36,61,60101.0,11481,Kira,Yari Zamanli,Egitim,Orta,0,Riskli
+M00957,43,72242.0,18.7,132581,60,230,16727.0,6190,Kira,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00958,30,56355.0,7.2,39557,24,77,14985.0,32445,Aile Yaninda,Serbest,Tuketici,Kotu,0,Riskli
+M00959,64,26565.0,32.4,59156,72,459,,12934,Kira,Tam Zamanli,Isletme,Iyi,2,Riskli
+M00960,22,78374.0,1.3,82493,24,28,23686.0,17226,Ev Sahibi,Yari Zamanli,Egitim,Iyi,0,Risksiz
+M00961,33,66979.0,11.3,68383,36,138,25901.0,26087,Aile Yaninda,Tam Zamanli,Tuketici,Iyi,0,Risksiz
+M00962,60,55478.0,23.9,40531,48,370,42879.0,46232,Kira,Tam Zamanli,Ev,Orta,0,Riskli
+M00963,22,40923.0,1.1,103656,36,49,4817.0,8044,Aile Yaninda,Yari Zamanli,Tatil,Iyi,0,Riskli
+M00964,40,27730.0,8.0,139601,48,273,2635.0,21599,Aile Yaninda,Tam Zamanli,Arac,Orta,1,Riskli
+M00965,21,38300.0,0.8,75884,36,22,38117.0,12340,Aile Yaninda,Serbest,Egitim,Orta,1,Riskli
+M00966,57,64597.0,27.4,42878,48,348,48121.0,13690,Kira,Yari Zamanli,Tuketici,Iyi,1,Riskli
+M00967,29,78923.0,4.8,23531,24,99,1719.0,12238,Ev Sahibi,Tam Zamanli,Arac,Orta,0,Risksiz
+M00968,37,72778.0,5.4,77739,12,137,49467.0,8995,Ev Sahibi,Tam Zamanli,Ev,Kotu,0,Risksiz
+M00969,29,36201.0,7.2,103116,36,136,30676.0,17670,Aile Yaninda,Tam Zamanli,Ev,Iyi,0,Riskli
+M00970,31,24847.0,3.4,84255,36,152,49652.0,6204,Kira,Tam Zamanli,Ev,Iyi,0,Riskli
+M00971,35,47536.0,10.8,69928,24,128,28736.0,25574,Ev Sahibi,Tam Zamanli,Ev,Orta,0,Riskli
+M00972,44,15000.0,21.2,52322,36,232,0.0,18440,Kira,Yari Zamanli,Ev,Orta,0,Riskli
+M00973,58,,21.4,37235,36,274,27265.0,21379,Kira,Tam Zamanli,Arac,Iyi,0,Riskli
+M00974,55,42343.0,15.4,95043,12,408,49083.0,14270,Kira,Tam Zamanli,Arac,Iyi,0,Risksiz
+M00975,50,36611.0,21.7,97413,48,223,13913.0,15062,Ev Sahibi,Tam Zamanli,Isletme,Iyi,0,Riskli
+M00976,51,16295.0,24.5,23628,60,458,23017.0,20301,Kira,Tam Zamanli,Arac,Iyi,1,Riskli
+M00977,25,54245.0,3.1,117695,24,86,26830.0,8688,Ev Sahibi,Tam Zamanli,Ev,Iyi,0,Risksiz
+M00978,64,35411.0,38.7,87222,48,420,0.0,15136,Aile Yaninda,Serbest,Tatil,Kotu,0,Riskli
+M00979,34,23941.0,4.6,111988,48,170,60084.0,11123,Kira,Serbest,Tuketici,Orta,0,Riskli
+M00980,31,15000.0,6.6,29736,36,173,13775.0,10875,Ev Sahibi,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00981,29,44505.0,6.6,29025,48,115,39103.0,5000,Kira,Issiz,Arac,Orta,0,Risksiz
+M00982,54,76901.0,27.8,65531,36,266,28439.0,28715,Kira,Tam Zamanli,Tatil,Kotu,0,Riskli
+M00983,32,74903.0,4.9,85084,36,126,52637.0,12508,Ev Sahibi,Serbest,Tuketici,Iyi,0,Riskli
+M00984,55,36772.0,27.3,123891,12,472,37309.0,27307,Aile Yaninda,Yari Zamanli,Tuketici,Iyi,0,Riskli
+M00985,55,34160.0,22.1,91182,48,413,25771.0,26550,Ev Sahibi,Yari Zamanli,Tuketici,Iyi,0,Risksiz
+M00986,21,53438.0,0.5,62720,48,34,13917.0,7712,Ev Sahibi,Tam Zamanli,Tuketici,Orta,0,Riskli
+M00987,60,27029.0,15.2,39209,12,543,44361.0,9293,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00988,42,50432.0,18.0,106900,36,316,0.0,38484,Kira,Tam Zamanli,Tatil,Kotu,0,Riskli
+M00989,49,58789.0,11.4,41059,72,414,41626.0,32007,Ev Sahibi,Yari Zamanli,Egitim,Iyi,0,Riskli
+M00990,28,67085.0,3.9,118854,36,68,10217.0,17748,Kira,Tam Zamanli,Tuketici,Iyi,0,Riskli
+M00991,31,43197.0,5.2,61468,36,135,52541.0,20059,Kira,Serbest,Tuketici,Iyi,0,Riskli
+M00992,61,41334.0,33.7,117717,60,513,32903.0,12953,Ev Sahibi,Tam Zamanli,Ev,Iyi,1,Riskli
+M00993,57,29196.0,26.0,90368,48,470,41594.0,21459,Kira,Serbest,Isletme,Orta,0,Riskli
+M00994,34,30116.0,10.9,65890,48,174,31476.0,12263,Kira,Tam Zamanli,Arac,Kotu,0,Riskli
+M00995,50,40923.0,13.5,54418,60,235,0.0,5000,Ev Sahibi,Tam Zamanli,Egitim,Iyi,0,Riskli
+M00996,55,51613.0,23.6,59773,60,458,14507.0,7428,Ev Sahibi,Tam Zamanli,Tuketici,Kotu,0,Risksiz
+M00997,41,61445.0,13.5,82850,36,271,42103.0,18169,Aile Yaninda,Tam Zamanli,Arac,Orta,0,Riskli
+M00998,57,30543.0,29.6,72315,36,261,33000.0,8951,Ev Sahibi,Tam Zamanli,Egitim,Iyi,1,Riskli
+M00999,25,71868.0,4.2,52186,36,68,51258.0,17462,Kira,Serbest,Ev,Orta,1,Riskli
+M01000,39,40120.0,5.8,65031,72,155,37259.0,9403,Aile Yaninda,Tam Zamanli,Arac,Iyi,1,Riskli
